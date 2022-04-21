@@ -1,6 +1,3 @@
-# Welcome to Streamlit!
+# CS4225 Project Demo
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Hosted on Streamlit Cloud: https://share.streamlit.io/shaokiat/cs4225-demo/demo.py 
