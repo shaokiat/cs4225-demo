@@ -16,18 +16,24 @@ coordinatesDF = pd.read_csv("ua_coordinates.csv")
 coordinatesDF.rename(columns={"lng": "lon"}, inplace=True)
 
 # Configure Sidebar
-st.title('Russo-Ukraine Conflict Analysis')
+st.sidebar.title("Data Selection")
 
-st.sidebar.title("Data selection")
+st.sidebar.markdown(
+    "Select the `Date` and `Hour` of interest to generate data visualization.")
 selected_date = st.sidebar.date_input(
-    "Select Date", date.today()).strftime("%Y-%m-%d")
+    "Select Date", datetime(2022, 3, 10)).strftime("%Y-%m-%d")
 selected_hr = st.sidebar.slider(
     "Select hr", min_value=0, max_value=23, value=0, step=1)
 
 if selected_date and selected_hr:
-    st.sidebar.write("You have selected: ",
-                     selected_date, selected_hr*100, "h")
+    hour = str(selected_hr*100).zfill(4)
+    time = selected_date + " " + hour + "h"
+    st.sidebar.write("You have selected: ", time)
 
+
+st.title('Russo-Ukraine Conflict Analysis')
+st.markdown(
+    "Visualize conflict areas in Ukraine based on twitter activity by date and hour.")
 # Display Map
 selectedDateHr = (data["Date"] == selected_date) & (
     data["Hour"] == selected_hr)
@@ -75,6 +81,7 @@ gb.configure_side_bar()
 gb.configure_selection('single')
 with row0_1:
     st.header("Raw Dataset")
+    st.write("Result dataset generated from SoC cluster.")
     selection = AgGrid(
         data_copy,
         enable_enterprise_modules=True,
