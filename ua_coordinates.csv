@@ -1,0 +1,1470 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Kyiv,50.4500,30.5236,Ukraine,UA,"Kyyiv, Misto",primary,2963199,2963199
+Kharkiv,50.0000,36.2292,Ukraine,UA,Kharkivs’ka Oblast’,admin,1446107,1446107
+Odesa,46.4775,30.7326,Ukraine,UA,Odes’ka Oblast’,admin,1017699,1017699
+Dnipro,48.4500,34.9833,Ukraine,UA,Dnipropetrovs’ka Oblast’,admin,1002111,1002111
+Donetsk,48.0089,37.8042,Ukraine,UA,Donets’ka Oblast’,admin,929063,929063
+Zaporizhzhia,47.8378,35.1383,Ukraine,UA,Zaporiz’ka Oblast’,admin,741717,741717
+Lviv,49.8419,24.0315,Ukraine,UA,L’vivs’ka Oblast’,admin,724314,724314
+Kryvyi Rih,47.9086,33.3433,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,629695,629695
+Mykolaiv,46.9667,32.0000,Ukraine,UA,Mykolayivs’ka Oblast’,admin,498748,498748
+Mariupol,47.1306,37.5639,Ukraine,UA,Donets’ka Oblast’,,449498,449498
+Sevastopol,44.6000,33.5333,Ukraine,UA,"Sevastopol’, Misto",admin,428753,428753
+Luhansk,48.5833,39.3333,Ukraine,UA,Luhans’ka Oblast’,admin,417990,417990
+Vinnytsia,49.2372,28.4672,Ukraine,UA,Vinnyts’ka Oblast’,admin,371855,371855
+Makiivka,48.0556,37.9611,Ukraine,UA,Donets’ka Oblast’,,347376,347376
+Simferopol,44.9484,34.1000,Ukraine,UA,"Krym, Avtonomna Respublika",admin,341799,341799
+Poltava,49.5744,34.5686,Ukraine,UA,Poltavs’ka Oblast’,admin,317847,286588
+Chernihiv,51.4939,31.2947,Ukraine,UA,Chernihivs’ka Oblast’,admin,294522,294522
+Kherson,46.6333,32.6000,Ukraine,UA,Khersons’ka Oblast’,admin,291428,291428
+Cherkasy,49.4444,32.0597,Ukraine,UA,Cherkas’ka Oblast’,admin,276360,276360
+Khmelnytskyi,49.4200,27.0000,Ukraine,UA,Khmel’nyts’ka Oblast’,admin,274176,274176
+Zhytomyr,50.2544,28.6578,Ukraine,UA,Zhytomyrs’ka Oblast’,admin,266936,266936
+Chernivtsi,48.2908,25.9344,Ukraine,UA,Chernivets’ka Oblast’,admin,266550,266550
+Sumy,50.9068,34.7992,Ukraine,UA,Sums’ka Oblast’,admin,265758,265758
+Horlivka,48.3336,38.0925,Ukraine,UA,Donets’ka Oblast’,minor,256714,256714
+Rivne,50.6197,26.2514,Ukraine,UA,Rivnens’ka Oblast’,admin,245630,245630
+Ivano-Frankivsk,48.9228,24.7106,Ukraine,UA,Ivano-Frankivs’ka Oblast’,admin,236602,236602
+Kamianske,48.5076,34.6132,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,235066,235066
+Kremenchuk,49.0775,33.4239,Ukraine,UA,Poltavs’ka Oblast’,minor,234073,234073
+Kropyvnytskyi,48.5103,32.2667,Ukraine,UA,Kirovohrads’ka Oblast’,admin,227413,227413
+Ternopil,49.5667,25.6000,Ukraine,UA,Ternopil’s’ka Oblast’,admin,218653,218653
+Lutsk,50.7478,25.3244,Ukraine,UA,Volyns’ka Oblast’,admin,216505,216505
+Bila Tserkva,49.7956,30.1167,Ukraine,UA,Kyyivs’ka Oblast’,minor,208944,208944
+Kramatorsk,48.7208,37.5556,Ukraine,UA,Donets’ka Oblast’,,159445,159445
+Melitopol,46.8333,35.3667,Ukraine,UA,Zaporiz’ka Oblast’,minor,154992,154992
+Sievierodonetsk,48.9500,38.4833,Ukraine,UA,Luhans’ka Oblast’,minor,150000,150000
+Drohobych,49.3500,23.5000,Ukraine,UA,L’vivs’ka Oblast’,minor,124269,79406
+Khrustalnyi,48.1214,38.9453,Ukraine,UA,Luhans’ka Oblast’,,124000,124000
+Uzhhorod,48.6239,22.2950,Ukraine,UA,Zakarpats’ka Oblast’,admin,114897,114897
+Berdiansk,46.7598,36.7845,Ukraine,UA,Zaporiz’ka Oblast’,minor,114205,114205
+Sloviansk,48.8700,37.6250,Ukraine,UA,Donets’ka Oblast’,,113196,113196
+Nikopol,47.5772,34.3575,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,112102,112102
+Yevpatoriia,45.2000,33.3583,Ukraine,UA,"Krym, Avtonomna Respublika",,106158,106158
+Pavlohrad,48.5200,35.8700,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,106082,106082
+Alchevsk,48.4672,38.7983,Ukraine,UA,Luhans’ka Oblast’,minor,105398,105398
+Konotop,51.2369,33.2027,Ukraine,UA,Sums’ka Oblast’,minor,103547,91798
+Brovary,50.5114,30.7903,Ukraine,UA,Kyyivs’ka Oblast’,minor,102856,102856
+Kamianets-Podilskyi,48.6806,26.5806,Ukraine,UA,Khmel’nyts’ka Oblast’,minor,100462,100462
+Lysychansk,48.9169,38.4306,Ukraine,UA,Luhans’ka Oblast’,,96161,96161
+Dovzhansk,48.0846,39.6516,Ukraine,UA,Luhans’ka Oblast’,minor,95153,95153
+Mukacheve,48.4414,22.7136,Ukraine,UA,Zakarpats’ka Oblast’,minor,86257,86257
+Uman,48.7500,30.2167,Ukraine,UA,Cherkas’ka Oblast’,minor,82762,82762
+Yalta,44.4994,34.1553,Ukraine,UA,"Krym, Avtonomna Respublika",,79458,79458
+Yenakiieve,48.2311,38.2053,Ukraine,UA,Donets’ka Oblast’,,79348,79348
+Shostka,51.8657,33.4766,Ukraine,UA,Sums’ka Oblast’,minor,76788,76788
+Berdychiv,49.8919,28.6000,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,76229,76229
+Bakhmut,48.6044,38.0067,Ukraine,UA,Donets’ka Oblast’,minor,75798,75798
+Stakhanov,48.5472,38.6361,Ukraine,UA,Luhans’ka Oblast’,,75745,75745
+Nizhyn,51.0500,31.9000,Ukraine,UA,Chernihivs’ka Oblast’,minor,73283,73283
+Kostiantynivka,48.5333,37.7167,Ukraine,UA,Donets’ka Oblast’,,72888,72888
+Izmail,45.3500,28.8333,Ukraine,UA,Odes’ka Oblast’,minor,71594,71594
+Novomoskovsk,48.6328,35.2239,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,70749,70749
+Nova Kakhovka,46.7667,33.3667,Ukraine,UA,Khersons’ka Oblast’,,69280,69280
+Kovel,51.2167,24.7167,Ukraine,UA,Volyns’ka Oblast’,minor,69089,69089
+Smila,49.2167,31.8667,Ukraine,UA,Cherkas’ka Oblast’,minor,68536,68536
+Kalush,49.0442,24.3597,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,66406,66406
+Korosten,50.9500,28.6500,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,63525,63525
+Pokrovsk,48.2833,37.1833,Ukraine,UA,Donets’ka Oblast’,minor,63437,63437
+Boryspil,50.3500,30.9500,Ukraine,UA,Kyyivs’ka Oblast’,minor,62281,62281
+Kolomyia,48.5167,25.0333,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,61269,61269
+Rubizhne,49.0167,38.3667,Ukraine,UA,Luhans’ka Oblast’,,59951,59951
+Chornomorsk,46.3017,30.6569,Ukraine,UA,Odes’ka Oblast’,,59800,59800
+Khartsyzk,48.0333,38.1500,Ukraine,UA,Donets’ka Oblast’,,59763,59763
+Druzhkivka,48.6203,37.5278,Ukraine,UA,Donets’ka Oblast’,,59400,59400
+Stryi,49.2500,23.8500,Ukraine,UA,L’vivs’ka Oblast’,minor,59325,59325
+Bilhorod-Dnistrovskyi,46.1833,30.3333,Ukraine,UA,Odes’ka Oblast’,minor,57210,57210
+Irpin,50.5167,30.2500,Ukraine,UA,Kyyivs’ka Oblast’,,56806,56806
+Novohrad-Volynskyi,50.5833,27.6333,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,56288,56288
+Lozova,48.8892,36.3161,Ukraine,UA,Kharkivs’ka Oblast’,minor,55827,55827
+Antratsyt,48.1167,39.0833,Ukraine,UA,Luhans’ka Oblast’,,54640,54640
+Enerhodar,47.4989,34.6558,Ukraine,UA,Zaporiz’ka Oblast’,minor,53567,53567
+Pryluky,50.6000,32.4000,Ukraine,UA,Chernihivs’ka Oblast’,minor,53395,53395
+Novovolynsk,50.7333,24.1667,Ukraine,UA,Volyns’ka Oblast’,,52188,52188
+Horishni Plavni,49.0107,33.6562,Ukraine,UA,Poltavs’ka Oblast’,,52167,52167
+Myrnohrad,48.3022,37.2614,Ukraine,UA,Donets’ka Oblast’,,50360,50360
+Shakhtarsk,48.0333,38.4833,Ukraine,UA,Donets’ka Oblast’,minor,49482,49482
+Okhtyrka,50.3074,34.9016,Ukraine,UA,Sums’ka Oblast’,minor,47971,47971
+Brianka,48.5133,38.6431,Ukraine,UA,Luhans’ka Oblast’,,47512,47512
+Snizhne,48.0167,38.7667,Ukraine,UA,Donets’ka Oblast’,,47259,47259
+Marhanets,47.6480,34.6167,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,47141,47141
+Rovenky,48.0833,39.3667,Ukraine,UA,Luhans’ka Oblast’,,46734,46734
+Fastiv,50.0747,29.9181,Ukraine,UA,Kyyivs’ka Oblast’,minor,45907,45907
+Lubny,50.0186,32.9869,Ukraine,UA,Poltavs’ka Oblast’,minor,45786,45786
+Svitlovodsk,49.0833,33.2500,Ukraine,UA,Kirovohrads’ka Oblast’,minor,45312,45312
+Zhovti Vody,48.3500,33.5167,Ukraine,UA,Dnipropetrovs’ka Oblast’,,44766,44766
+Krasnodon,48.3000,39.7333,Ukraine,UA,Luhans’ka Oblast’,,43683,43683
+Shepetivka,50.1833,27.0667,Ukraine,UA,Khmel’nyts’ka Oblast’,minor,41415,41415
+Vyshneve,50.3833,30.3667,Ukraine,UA,Kyyivs’ka Oblast’,,40919,40919
+Romny,50.7428,33.4879,Ukraine,UA,Sums’ka Oblast’,minor,40316,40316
+Myrhorod,49.9640,33.6124,Ukraine,UA,Poltavs’ka Oblast’,minor,40160,40160
+Podilsk,47.7419,29.5350,Ukraine,UA,Odes’ka Oblast’,minor,40155,40155
+Pokrov,47.6632,34.0811,Ukraine,UA,Dnipropetrovs’ka Oblast’,,39497,39497
+Volodymyr-Volynskyi,50.8481,24.3222,Ukraine,UA,Volyns’ka Oblast’,minor,38901,38901
+Pervomaisk,48.6333,38.5167,Ukraine,UA,Luhans’ka Oblast’,,38801,38801
+Dzhankoi,45.7086,34.3933,Ukraine,UA,"Krym, Avtonomna Respublika",minor,38714,38714
+Vasylkiv,50.1775,30.3217,Ukraine,UA,Kyyivs’ka Oblast’,,37696,37696
+Dubno,50.3931,25.7350,Ukraine,UA,Rivnens’ka Oblast’,minor,37545,37545
+Boryslav,49.2881,23.4267,Ukraine,UA,L’vivs’ka Oblast’,,37093,37093
+Netishyn,50.3300,26.6400,Ukraine,UA,Khmel’nyts’ka Oblast’,,36921,36921
+Holubivske,48.6375,38.6433,Ukraine,UA,Luhans’ka Oblast’,,36388,36388
+Kakhovka,46.8000,33.4667,Ukraine,UA,Khersons’ka Oblast’,minor,35900,35900
+Boyarka,50.3292,30.2886,Ukraine,UA,Kyyivs’ka Oblast’,,35411,35411
+Yasynuvata,48.1167,37.8333,Ukraine,UA,Donets’ka Oblast’,,35303,35303
+Voznesensk,47.5725,31.3119,Ukraine,UA,Mykolayivs’ka Oblast’,minor,35243,35243
+Bucha,50.5464,30.2350,Ukraine,UA,Kyyivs’ka Oblast’,minor,35162,35162
+Sambir,49.5167,23.2000,Ukraine,UA,L’vivs’ka Oblast’,minor,35026,35026
+Avdiivka,48.1333,37.7500,Ukraine,UA,Donets’ka Oblast’,,34938,34938
+Zhmerynka,49.0425,28.0992,Ukraine,UA,Vinnyts’ka Oblast’,minor,34537,34537
+Toretsk,48.4000,37.8333,Ukraine,UA,Donets’ka Oblast’,,34378,34378
+Hlukhiv,51.6765,33.9078,Ukraine,UA,Sums’ka Oblast’,,33478,33478
+Obukhiv,50.1000,30.6167,Ukraine,UA,Kyyivs’ka Oblast’,minor,33204,33204
+Chuhuiv,49.8353,36.6756,Ukraine,UA,Kharkivs’ka Oblast’,minor,33144,33144
+Yuzhne,46.6222,31.1008,Ukraine,UA,Odes’ka Oblast’,,32679,32679
+Kostopil,50.8833,26.4431,Ukraine,UA,Rivnens’ka Oblast’,,31463,31463
+Tokmak,47.2514,35.7058,Ukraine,UA,Zaporiz’ka Oblast’,minor,31016,31016
+Mohyliv-Podilskyi,48.4500,27.7833,Ukraine,UA,Vinnyts’ka Oblast’,minor,30982,30982
+Synelnykove,48.3178,35.5119,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,30724,30724
+Novoyavorovskoye,49.9311,23.5731,Ukraine,UA,L’vivs’ka Oblast’,,30723,30723
+Pervomaiskyi,49.3869,36.2142,Ukraine,UA,Kharkivs’ka Oblast’,,30048,30048
+Alushta,44.6672,34.3978,Ukraine,UA,"Krym, Avtonomna Respublika",,29668,29668
+Chortkiv,49.0167,25.8000,Ukraine,UA,Ternopil’s’ka Oblast’,minor,29169,29169
+Balakliia,49.4564,36.8389,Ukraine,UA,Kharkivs’ka Oblast’,,28868,28868
+Truskavets,49.2806,23.5050,Ukraine,UA,L’vivs’ka Oblast’,,28867,28867
+Novyi Rozdil,49.4703,24.1300,Ukraine,UA,L’vivs’ka Oblast’,,28745,28745
+Khust,48.1814,23.2978,Ukraine,UA,Zakarpats’ka Oblast’,minor,28424,28424
+Pershotravensk,48.3464,36.4044,Ukraine,UA,Dnipropetrovs’ka Oblast’,,28363,28363
+Khrestivka,48.1500,38.3667,Ukraine,UA,Donets’ka Oblast’,,28149,28149
+Khmilnyk,49.5500,27.9667,Ukraine,UA,Vinnyts’ka Oblast’,minor,27941,27941
+Ternivka,48.5231,36.0826,Ukraine,UA,Dnipropetrovs’ka Oblast’,,27929,27929
+Zolotonosha,49.6833,32.0333,Ukraine,UA,Cherkas’ka Oblast’,minor,27847,27847
+Vyshhorod,50.5833,30.5000,Ukraine,UA,Kyyivs’ka Oblast’,minor,27825,27825
+Bakhchysarai,44.7528,33.8608,Ukraine,UA,"Krym, Avtonomna Respublika",minor,27351,27351
+Pereyaslav-Khmel’nyts’kyy,50.0650,31.4450,Ukraine,UA,Kyyivs’ka Oblast’,,27088,27088
+Sofiyivs’ka Borshchahivka,50.4114,30.3692,Ukraine,UA,Kyyivs’ka Oblast’,,26571,26571
+Malyn,50.7689,29.2700,Ukraine,UA,Zhytomyrs’ka Oblast’,,26204,26204
+Perevalsk,48.4333,38.8167,Ukraine,UA,Luhans’ka Oblast’,minor,26132,26132
+Yany Kapu,45.9675,33.8003,Ukraine,UA,"Krym, Avtonomna Respublika",minor,25769,25769
+Haisyn,48.8094,29.3906,Ukraine,UA,Vinnyts’ka Oblast’,minor,25672,25672
+Korostyshiv,50.3186,29.0592,Ukraine,UA,Zhytomyrs’ka Oblast’,,25445,25445
+Vynohradiv,48.1397,23.0331,Ukraine,UA,Zakarpats’ka Oblast’,minor,25403,25403
+Slavutych,51.5206,30.7569,Ukraine,UA,Kyyivs’ka Oblast’,,25030,25030
+Saky,45.1336,33.5772,Ukraine,UA,"Krym, Avtonomna Respublika",minor,24885,24885
+Kaniv,49.7447,31.4558,Ukraine,UA,Cherkas’ka Oblast’,,24532,24532
+Zolochiv,49.8075,24.9031,Ukraine,UA,L’vivs’ka Oblast’,minor,24059,24059
+Selydove,48.1500,37.3000,Ukraine,UA,Donets’ka Oblast’,,23793,23793
+Brody,50.0781,25.1542,Ukraine,UA,L’vivs’ka Oblast’,,23752,23752
+Berehove,48.2025,22.6375,Ukraine,UA,Zakarpats’ka Oblast’,minor,23732,23732
+Koziatyn,49.7167,28.8333,Ukraine,UA,Vinnyts’ka Oblast’,minor,23610,23610
+Vilnohirsk,48.4824,34.0189,Ukraine,UA,Dnipropetrovs’ka Oblast’,,23235,23235
+Molodohvardiisk,48.3444,39.6583,Ukraine,UA,Luhans’ka Oblast’,,22937,22937
+Znamianka,48.7136,32.6733,Ukraine,UA,Kirovohrads’ka Oblast’,minor,22936,22936
+Ladyzhyn,48.6667,29.2167,Ukraine,UA,Vinnyts’ka Oblast’,,22682,22682
+Nadvirna,48.6333,24.5833,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,22447,22447
+Lyman,48.9861,37.8111,Ukraine,UA,Donets’ka Oblast’,,22315,22315
+Bilohorodka,50.4000,30.2167,Ukraine,UA,Kyyivs’ka Oblast’,,21367,21367
+Sukhodilsk,48.3500,39.7167,Ukraine,UA,Luhans’ka Oblast’,,21324,21324
+Sokal,50.4833,24.2833,Ukraine,UA,L’vivs’ka Oblast’,,20986,20986
+Liubotyn,49.9489,35.9306,Ukraine,UA,Kharkivs’ka Oblast’,,20887,20887
+Kremenets,50.1081,25.7275,Ukraine,UA,Ternopil’s’ka Oblast’,minor,20837,20837
+Dolyna,48.9703,24.0108,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,20691,20691
+Henichesk,46.1769,34.7989,Ukraine,UA,Khersons’ka Oblast’,minor,19869,19869
+Yahotyn,50.2569,31.7817,Ukraine,UA,Kyyivs’ka Oblast’,,19613,19613
+Pidhorodne,48.5737,35.0966,Ukraine,UA,Dnipropetrovs’ka Oblast’,,19524,19524
+Balta,47.9361,29.6225,Ukraine,UA,Odes’ka Oblast’,minor,19353,19353
+Dolynska,48.1111,32.7648,Ukraine,UA,Kirovohrads’ka Oblast’,minor,19287,19287
+Kalynivka,49.4472,28.5231,Ukraine,UA,Vinnyts’ka Oblast’,minor,18906,18906
+Polohy,47.4796,36.2611,Ukraine,UA,Zaporiz’ka Oblast’,minor,18886,18886
+Piatykhatky,48.4126,33.7034,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,18845,18845
+Starobilsk,49.2667,38.9167,Ukraine,UA,Luhans’ka Oblast’,minor,18796,18796
+Vovchansk,50.2881,36.9461,Ukraine,UA,Kharkivs’ka Oblast’,minor,18644,18644
+Skadovsk,46.1167,32.9167,Ukraine,UA,Khersons’ka Oblast’,minor,18482,18482
+Dniprorudne,47.3855,34.9879,Ukraine,UA,Zaporiz’ka Oblast’,,18468,18468
+Svatove,49.4092,38.1619,Ukraine,UA,Luhans’ka Oblast’,minor,18417,18417
+Amvrosiivka,47.7958,38.4801,Ukraine,UA,Donets’ka Oblast’,,18413,18413
+Korsun-Shevchenkivskyi,49.4261,31.2806,Ukraine,UA,Cherkas’ka Oblast’,,18401,18401
+Bolhrad,45.6855,28.6134,Ukraine,UA,Odes’ka Oblast’,minor,17400,17400
+Svalyava,48.5472,22.9861,Ukraine,UA,Zakarpats’ka Oblast’,,17234,17234
+Zvenyhorodka,49.0833,30.9667,Ukraine,UA,Cherkas’ka Oblast’,minor,17078,17078
+Iziaslav,50.1167,26.8000,Ukraine,UA,Khmel’nyts’ka Oblast’,,16901,16901
+Vatutine,49.0167,31.0667,Ukraine,UA,Cherkas’ka Oblast’,,16888,16888
+Sudak,44.8514,34.9725,Ukraine,UA,"Krym, Avtonomna Respublika",,16756,16756
+Horodok,49.1667,26.5667,Ukraine,UA,Khmel’nyts’ka Oblast’,,16516,16516
+Berezan,50.3197,31.4700,Ukraine,UA,Kyyivs’ka Oblast’,,16506,16506
+Bilohirsk,45.0544,34.6022,Ukraine,UA,"Krym, Avtonomna Respublika",minor,16428,16428
+Verkhivtseve,48.4812,34.2488,Ukraine,UA,Dnipropetrovs’ka Oblast’,,16364,16364
+Kotsyubyns’ke,50.4883,30.3331,Ukraine,UA,"Kyyiv, Misto",,16337,16337
+Hostomel,50.5692,30.2653,Ukraine,UA,Kyyivs’ka Oblast’,,16190,16190
+Bar,49.0781,27.6831,Ukraine,UA,Vinnyts’ka Oblast’,minor,16136,16136
+Ukrainka,50.1500,30.7519,Ukraine,UA,Kyyivs’ka Oblast’,,16056,16056
+Horodok,49.7822,23.6436,Ukraine,UA,L’vivs’ka Oblast’,,15993,15993
+Skvyra,49.7333,29.6833,Ukraine,UA,Kyyivs’ka Oblast’,minor,15889,15889
+Yuvileine,48.5531,39.1742,Ukraine,UA,Luhans’ka Oblast’,,15830,15830
+Ovruch,51.3244,28.8081,Ukraine,UA,Zhytomyrs’ka Oblast’,,15795,15795
+Putyvl,51.3347,33.8686,Ukraine,UA,Sums’ka Oblast’,,15778,15778
+Vynnyky,49.8156,24.1297,Ukraine,UA,L’vivs’ka Oblast’,,15723,15723
+Ostroh,50.3333,26.5167,Ukraine,UA,Rivnens’ka Oblast’,,15642,15642
+Rakhiv,48.0500,24.2167,Ukraine,UA,Zakarpats’ka Oblast’,minor,15621,15621
+Bohodukhiv,50.1608,35.5164,Ukraine,UA,Kharkivs’ka Oblast’,minor,15576,15576
+Bilopillya,51.1532,34.3025,Ukraine,UA,Sums’ka Oblast’,,15215,15215
+Tulchyn,48.6744,28.8497,Ukraine,UA,Vinnyts’ka Oblast’,minor,15051,15051
+Vil’nyans’k,47.9445,35.4331,Ukraine,UA,Zaporiz’ka Oblast’,,15044,15044
+Burshtyn,49.2600,24.6350,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,15039,15039
+Zmiiv,49.6878,36.3558,Ukraine,UA,Kharkivs’ka Oblast’,,14848,14848
+Ochakiv,46.6186,31.5392,Ukraine,UA,Mykolayivs’ka Oblast’,minor,14705,14705
+Hulyaypole,47.6644,36.2632,Ukraine,UA,Zaporiz’ka Oblast’,,14678,14678
+Radomyshl,50.4947,29.2333,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,14607,14607
+Stanytsia Luhanska,48.6667,39.4667,Ukraine,UA,Luhans’ka Oblast’,,14543,14543
+Orikhiv,47.5677,35.7849,Ukraine,UA,Zaporiz’ka Oblast’,,14479,14479
+Hola Prystan,46.5167,32.5167,Ukraine,UA,Khersons’ka Oblast’,minor,14479,14479
+Zolote,48.6833,38.5167,Ukraine,UA,Luhans’ka Oblast’,,14376,14376
+Lebedyn,50.5831,34.4823,Ukraine,UA,Sums’ka Oblast’,,14301,14301
+Kivertsi,50.8331,25.4614,Ukraine,UA,Volyns’ka Oblast’,,14195,14195
+Nyzhnia Krynka,48.1144,38.1606,Ukraine,UA,Donets’ka Oblast’,,13927,13927
+Zhashkiv,49.2500,30.1000,Ukraine,UA,Cherkas’ka Oblast’,,13853,13853
+Zhovkva,50.0667,23.9667,Ukraine,UA,L’vivs’ka Oblast’,,13834,13834
+Horodyshche,49.2925,31.4581,Ukraine,UA,Cherkas’ka Oblast’,minor,13799,13799
+Apostolove,47.6595,33.7170,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,13792,13792
+Talne,48.8863,30.7027,Ukraine,UA,Cherkas’ka Oblast’,,13558,13558
+Kaharlyk,49.8522,30.8092,Ukraine,UA,Kyyivs’ka Oblast’,minor,13544,13544
+Zelenodolsk,47.5631,33.6524,Ukraine,UA,Dnipropetrovs’ka Oblast’,,13349,13349
+Nosivka,50.9300,31.5800,Ukraine,UA,Chernihivs’ka Oblast’,,13310,13310
+Borodyanka,50.6439,29.9339,Ukraine,UA,Kyyivs’ka Oblast’,,13230,13230
+Slobozhanske,48.5342,35.0749,Ukraine,UA,Dnipropetrovs’ka Oblast’,,13221,13221
+Vasylivka,47.4344,35.2808,Ukraine,UA,Zaporiz’ka Oblast’,minor,13166,13166
+Izium,49.2238,37.2915,Ukraine,UA,Kharkivs’ka Oblast’,minor,13108,13108
+Yavoriv,49.9469,23.3931,Ukraine,UA,L’vivs’ka Oblast’,minor,13057,13057
+Velykodolynske,46.3425,30.5653,Ukraine,UA,Odes’ka Oblast’,,13036,13036
+Tetiiv,49.3708,29.6900,Ukraine,UA,Kyyivs’ka Oblast’,minor,13015,13015
+Rozhyshche,50.9131,25.2700,Ukraine,UA,Volyns’ka Oblast’,,12953,12953
+Novhorod-Siverskyi,51.9833,33.2667,Ukraine,UA,Chernihivs’ka Oblast’,minor,12862,12862
+Bershad,48.3728,29.5325,Ukraine,UA,Vinnyts’ka Oblast’,minor,12795,12795
+Perehinske,48.8103,24.1819,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,12762,12762
+Kamianka-Dniprovska,47.4792,34.4232,Ukraine,UA,Zaporiz’ka Oblast’,minor,12638,12638
+Shchastia,48.7381,39.2311,Ukraine,UA,Luhans’ka Oblast’,,12629,12629
+Koriukivka,51.7833,32.2500,Ukraine,UA,Chernihivs’ka Oblast’,minor,12539,12539
+Buchach,49.0647,25.3872,Ukraine,UA,Ternopil’s’ka Oblast’,,12511,12511
+Kamin-Kashyrskyi,51.6242,24.9606,Ukraine,UA,Volyns’ka Oblast’,minor,12489,12489
+Hnivan,49.0833,28.3500,Ukraine,UA,Vinnyts’ka Oblast’,,12433,12433
+Beryslav,46.8333,33.4167,Ukraine,UA,Khersons’ka Oblast’,minor,12417,12417
+Vakhrusheve,48.1606,38.8389,Ukraine,UA,Luhans’ka Oblast’,,12197,12197
+Uzyn,49.8242,30.4425,Ukraine,UA,Kyyivs’ka Oblast’,,12147,12147
+Bilovodsk,49.1992,39.5756,Ukraine,UA,Luhans’ka Oblast’,minor,12000,12000
+Mykhailivka,47.2717,35.2248,Ukraine,UA,Zaporiz’ka Oblast’,minor,11949,11949
+Horodnia,51.8833,31.5833,Ukraine,UA,Chernihivs’ka Oblast’,,11852,11852
+Ukrainsk,48.1000,37.3667,Ukraine,UA,Donets’ka Oblast’,,11824,11824
+Baranivka,50.3000,27.6667,Ukraine,UA,Zhytomyrs’ka Oblast’,,11765,11765
+Ovidiopol,46.2667,30.4333,Ukraine,UA,Odes’ka Oblast’,minor,11741,11741
+Vasylkivka,48.2084,36.0253,Ukraine,UA,Dnipropetrovs’ka Oblast’,,11738,11738
+Nemyriv,48.9794,28.8439,Ukraine,UA,Vinnyts’ka Oblast’,minor,11697,11697
+Prymorsk,46.7333,36.3596,Ukraine,UA,Zaporiz’ka Oblast’,minor,11679,11679
+Mena,51.5167,32.2167,Ukraine,UA,Chernihivs’ka Oblast’,,11670,11670
+Mala Vyska,48.6500,31.6333,Ukraine,UA,Kirovohrads’ka Oblast’,minor,11614,11614
+Kalmiuske,47.6667,38.0667,Ukraine,UA,Donets’ka Oblast’,minor,11603,11603
+Lokhvytsya,50.3610,33.2652,Ukraine,UA,Poltavs’ka Oblast’,,11485,11485
+Yakymivka,46.6967,35.1664,Ukraine,UA,Zaporiz’ka Oblast’,minor,11481,11481
+Myronivka,49.6500,30.9833,Ukraine,UA,Kyyivs’ka Oblast’,minor,11478,11478
+Snovsk,51.8167,31.9500,Ukraine,UA,Chernihivs’ka Oblast’,,11390,11390
+Hirnyk,48.0500,37.3667,Ukraine,UA,Donets’ka Oblast’,,11378,11378
+Illintsi,49.1000,29.2000,Ukraine,UA,Vinnyts’ka Oblast’,minor,11270,11270
+Sosnivka,50.2946,24.2525,Ukraine,UA,L’vivs’ka Oblast’,,11058,11058
+Zhydachiv,49.3833,24.1333,Ukraine,UA,L’vivs’ka Oblast’,minor,10962,10962
+Rokytne,49.6897,30.4751,Ukraine,UA,Kyyivs’ka Oblast’,minor,10938,10938
+Bobrynets,48.0578,32.1581,Ukraine,UA,Kirovohrads’ka Oblast’,minor,10898,10898
+Bobrovytsia,50.7333,31.3833,Ukraine,UA,Chernihivs’ka Oblast’,,10894,10894
+Manevychi,51.2925,25.5503,Ukraine,UA,Volyns’ka Oblast’,,10825,10825
+Hrebinka,50.1180,32.4396,Ukraine,UA,Poltavs’ka Oblast’,,10805,10805
+Baryshivka,50.3703,31.3286,Ukraine,UA,Kyyivs’ka Oblast’,,10783,10783
+Khrystynivka,48.8333,29.9667,Ukraine,UA,Cherkas’ka Oblast’,,10762,10762
+Ichnia,50.8500,32.4000,Ukraine,UA,Chernihivs’ka Oblast’,,10709,10709
+Bolekhiv,49.0669,23.8514,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,10476,10476
+Lyuboml’,51.2158,24.0408,Ukraine,UA,Volyns’ka Oblast’,,10466,10466
+Olevsk,51.2278,27.6481,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,10457,10457
+Ivankiv,50.9333,29.9000,Ukraine,UA,Kyyivs’ka Oblast’,,10439,10439
+Krasnoilsk,48.0167,25.5833,Ukraine,UA,Chernivets’ka Oblast’,,10351,10351
+Letychiv,49.3833,27.6167,Ukraine,UA,Khmel’nyts’ka Oblast’,,10335,10335
+Verkhnodniprovsk,48.6561,34.3283,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,10314,10314
+Oster,50.9486,30.8811,Ukraine,UA,Chernihivs’ka Oblast’,,10245,10245
+Novgorodskoye,48.3156,37.8839,Ukraine,UA,Donets’ka Oblast’,,10227,10227
+Borzna,51.2333,32.4167,Ukraine,UA,Chernihivs’ka Oblast’,,10205,10205
+Shyroke,47.6882,33.2654,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,10202,10202
+Inkerman,44.6142,33.6083,Ukraine,UA,"Sevastopol’, Misto",,10196,10196
+Tarashcha,49.5500,30.5000,Ukraine,UA,Kyyivs’ka Oblast’,minor,10195,10195
+Radyvyliv,50.1333,25.2500,Ukraine,UA,Rivnens’ka Oblast’,,10190,10190
+Korolevo,48.1500,23.1333,Ukraine,UA,Zakarpats’ka Oblast’,,10165,10165
+Teplodar,46.5036,30.3244,Ukraine,UA,Odes’ka Oblast’,,10148,10148
+Ratne,51.6500,24.5333,Ukraine,UA,Volyns’ka Oblast’,,9955,9955
+Sniatyn,48.4500,25.5667,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,9942,9942
+Dubove,48.1781,23.8863,Ukraine,UA,Zakarpats’ka Oblast’,,9938,9938
+Pereshchepyne,49.0179,35.3598,Ukraine,UA,Dnipropetrovs’ka Oblast’,,9931,9931
+Pokrovske,47.9853,36.2367,Ukraine,UA,Dnipropetrovs’ka Oblast’,,9910,9910
+Zinkiv,50.2081,34.3668,Ukraine,UA,Poltavs’ka Oblast’,,9856,9856
+Berezivka,47.2039,30.9125,Ukraine,UA,Odes’ka Oblast’,minor,9845,9845
+Kobeliaky,49.1474,34.1993,Ukraine,UA,Poltavs’ka Oblast’,minor,9841,9841
+Makariv,50.4667,29.8167,Ukraine,UA,Kyyivs’ka Oblast’,,9836,9836
+Vesele,47.0160,34.9124,Ukraine,UA,Zaporiz’ka Oblast’,minor,9719,9719
+Khodoriv,49.4100,24.3094,Ukraine,UA,L’vivs’ka Oblast’,,9605,9605
+Sofiivka,48.2683,38.1847,Ukraine,UA,Donets’ka Oblast’,,9597,9597
+Mizhhiria,48.5286,23.5019,Ukraine,UA,Zakarpats’ka Oblast’,minor,9567,9567
+Bilozerka,46.6333,32.4333,Ukraine,UA,Khersons’ka Oblast’,minor,9565,9565
+Velyka Dymerka,50.5928,30.9103,Ukraine,UA,Kyyivs’ka Oblast’,,9554,9554
+Pohrebyshche,49.4869,29.2733,Ukraine,UA,Vinnyts’ka Oblast’,minor,9525,9525
+Nyzhnohirskyi,45.4464,34.7344,Ukraine,UA,"Krym, Avtonomna Respublika",minor,9460,9460
+Bezliudivka,49.8694,36.2719,Ukraine,UA,Kharkivs’ka Oblast’,,9436,9436
+Dubrovytsya,51.5667,26.5667,Ukraine,UA,Rivnens’ka Oblast’,,9424,9424
+Tysmenytsia,48.9008,24.8492,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,9287,9287
+Irshava,48.3172,23.0375,Ukraine,UA,Zakarpats’ka Oblast’,minor,9276,9276
+Khotyn,48.5078,26.4860,Ukraine,UA,Chernivets’ka Oblast’,minor,9262,9262
+Velykyi Bychkiv,47.9714,24.0047,Ukraine,UA,Zakarpats’ka Oblast’,,9255,9255
+Valky,49.8386,35.6217,Ukraine,UA,Kharkivs’ka Oblast’,,9235,9235
+Kalanchak,46.2550,33.2906,Ukraine,UA,Khersons’ka Oblast’,minor,9224,9224
+Obukhivka,48.5442,34.8664,Ukraine,UA,Dnipropetrovs’ka Oblast’,,9175,9175
+Stryzhavka,49.3103,28.4808,Ukraine,UA,Vinnyts’ka Oblast’,,9137,9137
+Bilenke,48.7664,37.6314,Ukraine,UA,Donets’ka Oblast’,,9136,9136
+Horokhiv,50.4994,24.7650,Ukraine,UA,Volyns’ka Oblast’,,9134,9134
+Hurzuf,44.5528,34.2875,Ukraine,UA,"Krym, Avtonomna Respublika",,9117,9117
+Horodenka,48.6675,25.5003,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,9113,9113
+Velyki Luchky,48.4200,22.5611,Ukraine,UA,Zakarpats’ka Oblast’,,9028,9028
+Tiachiv,48.0114,23.5722,Ukraine,UA,Zakarpats’ka Oblast’,minor,9019,9019
+Pomichna,48.2500,31.4167,Ukraine,UA,Kirovohrads’ka Oblast’,,8994,8994
+Kozova,49.4318,25.1544,Ukraine,UA,Ternopil’s’ka Oblast’,minor,8989,8989
+Uspenka,48.3939,39.1536,Ukraine,UA,Luhans’ka Oblast’,,8974,8974
+Chyhyryn,49.0833,32.6667,Ukraine,UA,Cherkas’ka Oblast’,minor,8962,8962
+Monastyryshche,48.9900,29.8011,Ukraine,UA,Cherkas’ka Oblast’,,8925,8925
+Chop,48.4333,22.2000,Ukraine,UA,Zakarpats’ka Oblast’,,8897,8897
+Tlumach,48.8669,25.0012,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,8886,8886
+Ilarionove,48.4059,35.2734,Ukraine,UA,Dnipropetrovs’ka Oblast’,,8854,8854
+Kryzhopil,48.3842,28.8625,Ukraine,UA,Vinnyts’ka Oblast’,minor,8788,8788
+Barvynkove,48.9067,37.0131,Ukraine,UA,Kharkivs’ka Oblast’,,8660,8660
+Rava-Rus’ka,50.2500,23.6167,Ukraine,UA,L’vivs’ka Oblast’,,8647,8647
+Solotvyno,47.9597,23.8669,Ukraine,UA,Zakarpats’ka Oblast’,,8632,8632
+Busk,49.9667,24.6167,Ukraine,UA,L’vivs’ka Oblast’,,8624,8624
+Andrushivka,50.0167,29.0167,Ukraine,UA,Zhytomyrs’ka Oblast’,,8606,8606
+Yasinia,48.2728,24.3747,Ukraine,UA,Zakarpats’ka Oblast’,,8579,8579
+Masandra,44.5167,34.1833,Ukraine,UA,"Krym, Avtonomna Respublika",,8571,8571
+Bushtyno,48.0503,23.4894,Ukraine,UA,Zakarpats’ka Oblast’,,8562,8562
+Nerubaiske,46.5467,30.6306,Ukraine,UA,Odes’ka Oblast’,,8558,8558
+Kosiv,48.3150,25.0953,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,8522,8522
+Lypovets,49.2161,29.0561,Ukraine,UA,Vinnyts’ka Oblast’,minor,8463,8463
+Lanivtsi,49.8644,26.0782,Ukraine,UA,Ternopil’s’ka Oblast’,,8401,8401
+Deliatyn,48.5286,24.6236,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,8386,8386
+Vyshkovo,48.0581,23.4164,Ukraine,UA,Zakarpats’ka Oblast’,,8288,8288
+Ivanivka,48.2325,38.9525,Ukraine,UA,Luhans’ka Oblast’,,8243,8243
+Mala Danylivka,50.0614,36.1675,Ukraine,UA,Kharkivs’ka Oblast’,,8228,8228
+Bohorodchany,48.8000,24.5333,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,8222,8222
+Zavodske,50.4002,33.3908,Ukraine,UA,Poltavs’ka Oblast’,,8180,8180
+Novi Sanzhary,49.3354,34.3162,Ukraine,UA,Poltavs’ka Oblast’,minor,8179,8179
+Krasnopillya,50.7732,35.2717,Ukraine,UA,Sums’ka Oblast’,,8165,8165
+Lysianka,49.2542,30.8207,Ukraine,UA,Cherkas’ka Oblast’,,8161,8161
+Manhush,47.0500,37.3000,Ukraine,UA,Donets’ka Oblast’,minor,8127,8127
+Tarutyne,46.1846,29.1495,Ukraine,UA,Odes’ka Oblast’,minor,8125,8125
+Kvasyliv,50.5569,26.2675,Ukraine,UA,Rivnens’ka Oblast’,,8117,8117
+Yaremche,48.4536,24.5564,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,8094,8094
+Ananiv,47.7225,29.9600,Ukraine,UA,Odes’ka Oblast’,,8077,8077
+Semenivka,52.1772,32.5797,Ukraine,UA,Chernihivs’ka Oblast’,,8052,8052
+Yasnohirka,48.7725,37.5506,Ukraine,UA,Donets’ka Oblast’,,8034,8034
+Kushuhum,47.7106,35.2192,Ukraine,UA,Zaporiz’ka Oblast’,,8032,8032
+Pidvolochysk,49.5311,26.1467,Ukraine,UA,Ternopil’s’ka Oblast’,,7977,7977
+Kozelets,50.9164,31.1147,Ukraine,UA,Chernihivs’ka Oblast’,,7968,7968
+Lanchyn,48.5475,24.7517,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,7923,7923
+Rohatyn,49.4167,24.6167,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,7797,7797
+Nemishayeve,50.5624,30.0925,Ukraine,UA,Kyyivs’ka Oblast’,,7766,7766
+Kryve Ozero,47.9333,30.3333,Ukraine,UA,Mykolayivs’ka Oblast’,minor,7717,7717
+Pivdenne,49.8849,36.0687,Ukraine,UA,Kharkivs’ka Oblast’,,7705,7705
+Dykanka,49.8222,34.5341,Ukraine,UA,Poltavs’ka Oblast’,minor,7662,7662
+Trostianets,48.5120,29.2137,Ukraine,UA,Vinnyts’ka Oblast’,minor,7655,7655
+Velykyi Dalnyk,46.4658,30.5583,Ukraine,UA,Odes’ka Oblast’,,7655,7655
+Khoroshiv,50.6000,28.4500,Ukraine,UA,Zhytomyrs’ka Oblast’,,7644,7644
+Solone,48.2054,34.8686,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,7628,7628
+Vapniarka,48.5333,28.7500,Ukraine,UA,Vinnyts’ka Oblast’,,7612,7612
+Teresva,48.0000,23.6992,Ukraine,UA,Zakarpats’ka Oblast’,,7589,7589
+Novoselytsia,48.2167,26.2667,Ukraine,UA,Chernivets’ka Oblast’,minor,7588,7588
+Velykyy Bereznyy,48.8922,22.4586,Ukraine,UA,Zakarpats’ka Oblast’,,7559,7559
+Romaniv,50.1517,27.9392,Ukraine,UA,Zhytomyrs’ka Oblast’,,7558,7558
+Artemivsk,48.4403,38.7422,Ukraine,UA,Luhans’ka Oblast’,,7506,7506
+Krasnokutsk,50.0567,35.1492,Ukraine,UA,Kharkivs’ka Oblast’,minor,7455,7455
+Tsarychanka,48.9432,34.4748,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,7415,7415
+Mezhova,48.2563,36.7313,Ukraine,UA,Dnipropetrovs’ka Oblast’,,7380,7380
+Rzhyshchiv,49.9611,31.0436,Ukraine,UA,Kyyivs’ka Oblast’,,7359,7359
+Borova,50.1733,30.1039,Ukraine,UA,Kyyivs’ka Oblast’,,7316,7316
+Lymanske,46.6639,29.9708,Ukraine,UA,Odes’ka Oblast’,,7249,7249
+Shyriaieve,47.3878,30.1911,Ukraine,UA,Odes’ka Oblast’,minor,7238,7238
+Rudno,49.8404,23.8747,Ukraine,UA,L’vivs’ka Oblast’,,7213,7213
+Poninka,50.1833,27.5333,Ukraine,UA,Khmel’nyts’ka Oblast’,,7189,7189
+Isliam-Terek,45.2256,35.2033,Ukraine,UA,"Krym, Avtonomna Respublika",minor,7067,7067
+Molochansk,47.2038,35.5985,Ukraine,UA,Zaporiz’ka Oblast’,,7040,7040
+Petropavlivka,48.4549,36.4394,Ukraine,UA,Dnipropetrovs’ka Oblast’,,7032,7032
+Sharhorod,48.7500,28.0833,Ukraine,UA,Vinnyts’ka Oblast’,minor,7029,7029
+Sosnytsia,51.5222,32.5017,Ukraine,UA,Chernihivs’ka Oblast’,,6983,6983
+Vorozhba,51.1749,34.2299,Ukraine,UA,Sums’ka Oblast’,,6972,6972
+Pryvillya,48.9999,38.2948,Ukraine,UA,Luhans’ka Oblast’,,6970,6970
+Shevchenkove,49.6939,37.1794,Ukraine,UA,Kharkivs’ka Oblast’,,6959,6959
+Tomakivka,47.8163,34.7471,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,6957,6957
+Piskivka,50.7078,29.5950,Ukraine,UA,Kyyivs’ka Oblast’,,6896,6896
+Kupiansk,49.7064,37.6167,Ukraine,UA,Kharkivs’ka Oblast’,minor,6893,6893
+Vilshany,50.0533,35.8847,Ukraine,UA,Kharkivs’ka Oblast’,,6865,6865
+Dobroslav,46.8200,30.9450,Ukraine,UA,Odes’ka Oblast’,,6863,6863
+Chynadiyovo,48.4833,22.8333,Ukraine,UA,Zakarpats’ka Oblast’,,6860,6860
+Nova Maiachka,46.6033,33.2283,Ukraine,UA,Khersons’ka Oblast’,,6811,6811
+Bilmak,47.3589,36.6500,Ukraine,UA,Zaporiz’ka Oblast’,minor,6802,6802
+Dovhe,48.3675,23.2869,Ukraine,UA,Zakarpats’ka Oblast’,,6790,6790
+Velyki Komiaty,48.2386,22.9789,Ukraine,UA,Zakarpats’ka Oblast’,,6772,6772
+Sofiivka,48.0727,33.8937,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,6748,6748
+Hornostaivka,47.0070,33.7280,Ukraine,UA,Khersons’ka Oblast’,minor,6745,6745
+Rozsoshentsi,49.5406,34.5042,Ukraine,UA,Poltavs’ka Oblast’,,6731,6731
+Lozuvatka,48.0610,33.2927,Ukraine,UA,Dnipropetrovs’ka Oblast’,,6730,6730
+Irshansk,50.7167,28.7167,Ukraine,UA,Zhytomyrs’ka Oblast’,,6718,6718
+Oleksandrivsk,48.5833,39.1833,Ukraine,UA,Luhans’ka Oblast’,,6709,6709
+Perechyn,48.7333,22.4667,Ukraine,UA,Zakarpats’ka Oblast’,,6683,6683
+Lityn,49.3255,28.0872,Ukraine,UA,Vinnyts’ka Oblast’,minor,6658,6658
+Svesa,51.9481,33.9367,Ukraine,UA,Sums’ka Oblast’,,6644,6644
+Karnaukhivka,48.4698,34.7376,Ukraine,UA,Dnipropetrovs’ka Oblast’,,6631,6631
+Staryi Sambir,49.4333,23.0000,Ukraine,UA,L’vivs’ka Oblast’,minor,6630,6630
+Yemilchyne,50.8708,27.8028,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,6616,6616
+Pryazovske,46.7378,35.6416,Ukraine,UA,Zaporiz’ka Oblast’,minor,6578,6578
+Voronovytsia,49.0989,28.6831,Ukraine,UA,Vinnyts’ka Oblast’,,6564,6564
+Bilokurakyne,49.5167,38.7167,Ukraine,UA,Luhans’ka Oblast’,,6560,6560
+Ivanychi,50.6419,24.3606,Ukraine,UA,Volyns’ka Oblast’,,6551,6551
+Tsuman,50.8333,25.8833,Ukraine,UA,Volyns’ka Oblast’,,6548,6548
+Kubei,45.7925,28.7475,Ukraine,UA,Odes’ka Oblast’,,6544,6544
+Sudova Vyshnya,49.7892,23.3722,Ukraine,UA,L’vivs’ka Oblast’,,6538,6538
+Bile,48.4936,39.0367,Ukraine,UA,Luhans’ka Oblast’,,6512,6512
+Slatyne,50.2161,36.1525,Ukraine,UA,Kharkivs’ka Oblast’,,6483,6483
+Dobrotvir,50.2056,24.3864,Ukraine,UA,L’vivs’ka Oblast’,,6450,6450
+Drabiv,49.9603,32.1481,Ukraine,UA,Cherkas’ka Oblast’,,6450,6450
+Vorzel,50.5500,30.1500,Ukraine,UA,Kyyivs’ka Oblast’,,6441,6441
+Chervonohryhorivka,47.6233,34.5309,Ukraine,UA,Dnipropetrovs’ka Oblast’,,6348,6348
+Stavyshche,49.3914,30.1917,Ukraine,UA,Kyyivs’ka Oblast’,minor,6339,6339
+Mahdalynivka,48.9147,34.9154,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,6335,6335
+Vinkivtsi,49.0333,27.2333,Ukraine,UA,Khmel’nyts’ka Oblast’,,6330,6330
+Turbiv,49.3463,28.7244,Ukraine,UA,Vinnyts’ka Oblast’,,6326,6326
+Velyki Mosty,50.2400,24.1394,Ukraine,UA,L’vivs’ka Oblast’,,6298,6298
+Teplyk,48.6594,29.7539,Ukraine,UA,Vinnyts’ka Oblast’,minor,6280,6280
+Fontanka,46.5644,30.8586,Ukraine,UA,Odes’ka Oblast’,,6260,6260
+Blahovishchenske,48.3197,30.2353,Ukraine,UA,Kirovohrads’ka Oblast’,,6232,6232
+Hvardiys’ke,48.7328,35.3110,Ukraine,UA,Dnipropetrovs’ka Oblast’,,6207,6207
+Halych,49.1128,24.7217,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,6196,6196
+Petropavlivs’ka Borshchahivka,50.4378,30.3439,Ukraine,UA,Kyyivs’ka Oblast’,,6125,6125
+Kushnytsia,48.4517,23.2581,Ukraine,UA,Zakarpats’ka Oblast’,,6100,6100
+Kehychivka,49.2858,35.7622,Ukraine,UA,Kharkivs’ka Oblast’,,6090,6090
+Partenit,44.5764,34.3397,Ukraine,UA,"Krym, Avtonomna Respublika",,6089,6089
+Sutysky,49.0422,28.4208,Ukraine,UA,Vinnyts’ka Oblast’,,6069,6069
+Ahrarne,45.0186,34.0544,Ukraine,UA,"Krym, Avtonomna Respublika",,6034,6034
+Balabyne,47.7350,35.2142,Ukraine,UA,Zaporiz’ka Oblast’,,6010,6010
+Volodarka,49.5200,29.9153,Ukraine,UA,Kyyivs’ka Oblast’,minor,5996,5996
+Murovani Kurylivtsi,48.7222,27.5150,Ukraine,UA,Vinnyts’ka Oblast’,minor,5872,5872
+Ozerne,50.1794,28.7361,Ukraine,UA,Zhytomyrs’ka Oblast’,,5851,5851
+Morshyn,49.1550,23.8725,Ukraine,UA,L’vivs’ka Oblast’,,5850,5850
+Verkhovyna,48.1517,24.8136,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,5829,5829
+Chernihivka,47.1942,36.2023,Ukraine,UA,Zaporiz’ka Oblast’,minor,5813,5813
+Veselynove,47.3583,31.2397,Ukraine,UA,Mykolayivs’ka Oblast’,minor,5785,5785
+Dobrovelychkivka,48.3500,31.1667,Ukraine,UA,Kirovohrads’ka Oblast’,minor,5763,5763
+Lyubeshiv,51.7631,25.4992,Ukraine,UA,Volyns’ka Oblast’,,5762,5762
+Hrebinky,49.9564,30.1714,Ukraine,UA,Kyyivs’ka Oblast’,,5749,5749
+Sokilnyky,49.7769,23.9614,Ukraine,UA,L’vivs’ka Oblast’,,5727,5727
+Turiys’k,51.0833,24.5333,Ukraine,UA,Volyns’ka Oblast’,,5676,5676
+Oleksandriiske,48.6019,32.9889,Ukraine,UA,Kirovohrads’ka Oblast’,,5672,5672
+Horonda,48.3786,22.5681,Ukraine,UA,Zakarpats’ka Oblast’,,5630,5630
+Dniprovske,48.5953,34.4207,Ukraine,UA,Dnipropetrovs’ka Oblast’,,5628,5628
+Chudniv,50.0528,28.0969,Ukraine,UA,Zhytomyrs’ka Oblast’,,5583,5583
+Dymer,50.7872,30.3117,Ukraine,UA,Kyyivs’ka Oblast’,,5582,5582
+Savyntsi,49.4105,37.0617,Ukraine,UA,Kharkivs’ka Oblast’,,5571,5571
+Broshniv-Osada,48.9994,24.1814,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,5557,5557
+Korop,51.5661,32.9508,Ukraine,UA,Chernihivs’ka Oblast’,,5545,5545
+Zoria,45.9917,29.6989,Ukraine,UA,Odes’ka Oblast’,,5528,5528
+Tomashpil,48.5471,28.5157,Ukraine,UA,Vinnyts’ka Oblast’,minor,5527,5527
+Nova Borova,50.6922,28.6367,Ukraine,UA,Zhytomyrs’ka Oblast’,,5517,5517
+Nedryhayliv,50.8332,33.8799,Ukraine,UA,Sums’ka Oblast’,,5511,5511
+Hubynykha,48.8084,35.2535,Ukraine,UA,Dnipropetrovs’ka Oblast’,,5509,5509
+Rivne,48.2403,31.7492,Ukraine,UA,Kirovohrads’ka Oblast’,,5505,5505
+Stara Syniava,49.6000,27.6167,Ukraine,UA,Khmel’nyts’ka Oblast’,,5501,5501
+Stepanivka,50.9430,34.6334,Ukraine,UA,Sums’ka Oblast’,,5490,5490
+Koreiz,44.4331,34.0872,Ukraine,UA,"Krym, Avtonomna Respublika",,5455,5455
+Otyniia,48.7339,24.8569,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,5444,5444
+Pulyny,50.4664,28.2778,Ukraine,UA,Zhytomyrs’ka Oblast’,,5411,5411
+Bryukhovychi,49.9000,23.9436,Ukraine,UA,L’vivs’ka Oblast’,,5400,5400
+Horenka,50.5569,30.3175,Ukraine,UA,Kyyivs’ka Oblast’,,5358,5358
+Horodnytsia,50.8094,27.3183,Ukraine,UA,Zhytomyrs’ka Oblast’,,5340,5340
+Pishchanka,48.2058,28.8889,Ukraine,UA,Vinnyts’ka Oblast’,minor,5322,5322
+Shatsk,51.4878,23.9297,Ukraine,UA,Volyns’ka Oblast’,,5320,5320
+Hoshcha,50.5986,26.6753,Ukraine,UA,Rivnens’ka Oblast’,,5319,5319
+Mykolayivka,48.3823,36.3086,Ukraine,UA,Dnipropetrovs’ka Oblast’,,5318,5318
+Bratske,47.8636,31.5781,Ukraine,UA,Mykolayivs’ka Oblast’,minor,5313,5313
+Opishnya,49.9564,34.6120,Ukraine,UA,Poltavs’ka Oblast’,,5292,5292
+Komyshuvakha,47.7155,35.5241,Ukraine,UA,Zaporiz’ka Oblast’,,5269,5269
+Pechenihy,49.8647,36.9364,Ukraine,UA,Kharkivs’ka Oblast’,,5264,5264
+Pechenizhyn,48.5100,24.8892,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,5253,5253
+Stara Vyzhivka,51.4396,24.4373,Ukraine,UA,Volyns’ka Oblast’,,5248,5248
+Bratslav,48.8147,28.9447,Ukraine,UA,Vinnyts’ka Oblast’,,5241,5241
+Novomykolayivka,47.9779,35.9099,Ukraine,UA,Zaporiz’ka Oblast’,minor,5238,5238
+Novohuivynske,50.2022,28.6850,Ukraine,UA,Zhytomyrs’ka Oblast’,,5236,5236
+Chemerivtsi,49.0000,26.3667,Ukraine,UA,Khmel’nyts’ka Oblast’,,5200,5200
+Kalynivka,50.2256,30.2319,Ukraine,UA,Kyyivs’ka Oblast’,,5198,5198
+Yalta,46.9667,37.2667,Ukraine,UA,Donets’ka Oblast’,,5159,5159
+Volovets,48.7242,23.2000,Ukraine,UA,Zakarpats’ka Oblast’,minor,5128,5128
+Kyrnasivka,48.5914,28.9800,Ukraine,UA,Vinnyts’ka Oblast’,,5087,5087
+Z·hurivka,50.4976,31.7739,Ukraine,UA,Kyyivs’ka Oblast’,,5036,5036
+Klavdiyevo-Tarasove,50.5825,30.0053,Ukraine,UA,Kyyivs’ka Oblast’,,5029,5029
+Kolochava,48.4266,23.6984,Ukraine,UA,Zakarpats’ka Oblast’,,5029,5029
+Bohdanivka,48.5015,36.1100,Ukraine,UA,Dnipropetrovs’ka Oblast’,,5016,5016
+Chechelnyk,48.2122,29.3622,Ukraine,UA,Vinnyts’ka Oblast’,minor,5002,5002
+Novoozerne,45.3858,33.1200,Ukraine,UA,"Krym, Avtonomna Respublika",,4998,4998
+Brusyliv,50.2833,29.5333,Ukraine,UA,Zhytomyrs’ka Oblast’,,4914,4914
+Prosyana,48.1174,36.3743,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4907,4907
+Dobromyl,49.5667,22.7833,Ukraine,UA,L’vivs’ka Oblast’,,4890,4890
+Miusynsk,48.0727,38.9002,Ukraine,UA,Luhans’ka Oblast’,,4830,4830
+Moshny,49.5117,31.7442,Ukraine,UA,Cherkas’ka Oblast’,,4799,4799
+Petropavlivka,48.8044,39.2628,Ukraine,UA,Luhans’ka Oblast’,,4768,4768
+Kalyta,50.7503,31.0264,Ukraine,UA,Kyyivs’ka Oblast’,,4753,4753
+Talalaivka,50.8299,33.1485,Ukraine,UA,Chernihivs’ka Oblast’,,4745,4745
+Khotiv,50.3333,30.4664,Ukraine,UA,Kyyivs’ka Oblast’,,4737,4737
+Blahodatne,50.6500,24.2667,Ukraine,UA,Volyns’ka Oblast’,,4714,4714
+Chabany,50.3400,30.4228,Ukraine,UA,Kyyivs’ka Oblast’,,4641,4641
+Torchyn,50.7667,25.0000,Ukraine,UA,Volyns’ka Oblast’,,4601,4601
+Myropil,50.1075,27.7058,Ukraine,UA,Zhytomyrs’ka Oblast’,,4576,4576
+Brailiv,49.1053,28.1536,Ukraine,UA,Vinnyts’ka Oblast’,,4574,4574
+Petrykivka,48.7281,34.6288,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,4567,4567
+Dubivskyi,48.0822,39.1569,Ukraine,UA,Luhans’ka Oblast’,,4550,4550
+Olenivka,47.8333,37.6500,Ukraine,UA,Donets’ka Oblast’,,4549,4549
+Velykyi Rakovets,48.2708,23.1444,Ukraine,UA,Zakarpats’ka Oblast’,,4545,4545
+Lyublynets’,51.1833,24.6167,Ukraine,UA,Volyns’ka Oblast’,,4534,4534
+Velykyi Liubin,49.7239,23.7336,Ukraine,UA,L’vivs’ka Oblast’,,4516,4516
+Krynychky,48.1264,38.0294,Ukraine,UA,Donets’ka Oblast’,,4503,4503
+Novooleksandrivka,48.3454,34.9969,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4502,4502
+Boromlya,50.6204,34.9723,Ukraine,UA,Sums’ka Oblast’,,4490,4490
+Boikivske,47.4139,38.0108,Ukraine,UA,Donets’ka Oblast’,minor,4461,4461
+Stepnohirsk,47.5861,35.3638,Ukraine,UA,Zaporiz’ka Oblast’,,4420,4420
+Zabolottya,51.6333,24.2667,Ukraine,UA,Volyns’ka Oblast’,,4411,4411
+Znamenivka,48.6344,35.4561,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4410,4410
+Svyatohirs’k,49.0333,37.5833,Ukraine,UA,Donets’ka Oblast’,,4395,4395
+Bytkiv,48.6244,24.4858,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,4389,4389
+Krynychne,45.5358,28.6678,Ukraine,UA,Odes’ka Oblast’,,4348,4348
+Shyshaky,49.8769,34.0071,Ukraine,UA,Poltavs’ka Oblast’,minor,4347,4347
+Brylivka,46.4250,33.1511,Ukraine,UA,Khersons’ka Oblast’,,4339,4339
+Zaozerne,45.1600,33.2747,Ukraine,UA,"Krym, Avtonomna Respublika",,4332,4332
+Mliiv,49.3475,31.5364,Ukraine,UA,Cherkas’ka Oblast’,,4330,4330
+Almazna,48.5167,38.5833,Ukraine,UA,Luhans’ka Oblast’,,4301,4301
+Dovbysh,50.3722,27.9895,Ukraine,UA,Zhytomyrs’ka Oblast’,,4288,4288
+Kolchyno,48.4667,22.7667,Ukraine,UA,Zakarpats’ka Oblast’,,4283,4283
+Shabelkivka,48.7608,37.4881,Ukraine,UA,Donets’ka Oblast’,,4267,4267
+Sursko-Lytovske,48.3364,34.9355,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4264,4264
+Serednye,48.5333,22.5000,Ukraine,UA,Zakarpats’ka Oblast’,,4258,4258
+Novyi Kalyniv,49.5606,23.3044,Ukraine,UA,L’vivs’ka Oblast’,,4256,4256
+Cherkaske,48.7008,35.3844,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4252,4252
+Vorokhta,48.2833,24.5667,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,4246,4246
+Mykolaivka,50.9422,34.3820,Ukraine,UA,Sums’ka Oblast’,,4210,4210
+Obroshino,49.7853,23.8686,Ukraine,UA,L’vivs’ka Oblast’,,4186,4186
+Lyman,49.5894,36.4700,Ukraine,UA,Kharkivs’ka Oblast’,,4184,4184
+Krynychky,48.3686,34.4644,Ukraine,UA,Dnipropetrovs’ka Oblast’,minor,4176,4176
+Lazeshchyna,48.2692,24.4186,Ukraine,UA,Zakarpats’ka Oblast’,,4174,4174
+Hryshkivtsi,49.9356,28.6017,Ukraine,UA,Zhytomyrs’ka Oblast’,,4150,4150
+Ustynivka,47.9500,32.5333,Ukraine,UA,Kirovohrads’ka Oblast’,minor,4142,4142
+Melioratyvne,48.6222,35.3477,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4140,4140
+Berezanka,46.8550,31.3875,Ukraine,UA,Mykolayivs’ka Oblast’,minor,4132,4132
+Auly,48.5575,34.4628,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4127,4127
+Volodkova Divytsia,50.9436,31.7894,Ukraine,UA,Chernihivs’ka Oblast’,,4107,4107
+Novomykolaivka,48.5556,34.3771,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4090,4090
+Luhyny,51.0667,28.3833,Ukraine,UA,Zhytomyrs’ka Oblast’,,4077,4077
+Nova Ushytsia,48.8330,27.2672,Ukraine,UA,Khmel’nyts’ka Oblast’,,4075,4075
+Oleksandrivka,47.9208,37.5750,Ukraine,UA,Donets’ka Oblast’,,4068,4068
+Kuty,48.2636,25.1736,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,4067,4067
+Hołoby,51.0833,25.0167,Ukraine,UA,Volyns’ka Oblast’,,4058,4058
+Kolky,51.0992,25.6667,Ukraine,UA,Volyns’ka Oblast’,,4057,4057
+Velyki Sorochyntsi,50.0253,33.9477,Ukraine,UA,Poltavs’ka Oblast’,,4050,4050
+Novopillia,47.9539,33.5278,Ukraine,UA,Dnipropetrovs’ka Oblast’,,4037,4037
+Krynychne,47.9528,39.7383,Ukraine,UA,Luhans’ka Oblast’,,4027,4027
+Tyvriv,49.0116,28.5011,Ukraine,UA,Vinnyts’ka Oblast’,minor,4006,4006
+Zabolotiv,48.4667,25.2833,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,3998,3998
+Vyzhnytsia,48.2500,25.1917,Ukraine,UA,Chernivets’ka Oblast’,minor,3997,3997
+Yerky,48.9781,30.9919,Ukraine,UA,Cherkas’ka Oblast’,,3976,3976
+Suprunivka,49.5812,34.4270,Ukraine,UA,Poltavs’ka Oblast’,,3974,3974
+Skalat,49.4333,25.9833,Ukraine,UA,Ternopil’s’ka Oblast’,,3957,3957
+Dzhulynka,48.4417,29.7475,Ukraine,UA,Vinnyts’ka Oblast’,,3953,3953
+Rubanivka,46.9953,34.1694,Ukraine,UA,Khersons’ka Oblast’,,3927,3927
+Matviyivka,47.9026,35.3046,Ukraine,UA,Zaporiz’ka Oblast’,,3902,3902
+Simeiz,44.4069,34.0111,Ukraine,UA,"Krym, Avtonomna Respublika",,3901,3901
+Dashiv,49.0047,29.4278,Ukraine,UA,Vinnyts’ka Oblast’,,3887,3887
+Bohuslav,48.4661,36.0287,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3880,3880
+Rozhniativ,48.9354,24.1585,Ukraine,UA,Ivano-Frankivs’ka Oblast’,minor,3874,3874
+Radushne,47.8220,33.5029,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3874,3874
+Lokachi,50.7383,24.6372,Ukraine,UA,Volyns’ka Oblast’,,3856,3856
+Onufriivka,48.9023,33.4464,Ukraine,UA,Kirovohrads’ka Oblast’,minor,3855,3855
+Solotvyn,48.7000,24.5333,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,3850,3850
+Klembivka,48.3894,28.4064,Ukraine,UA,Vinnyts’ka Oblast’,,3842,3842
+Prymorske,47.6244,35.2943,Ukraine,UA,Zaporiz’ka Oblast’,,3840,3840
+Holubivka,48.8853,35.3246,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3836,3836
+Verbky,48.5911,35.8967,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3822,3822
+Bibrka,49.6358,24.2936,Ukraine,UA,L’vivs’ka Oblast’,,3817,3817
+Kalynivka,50.5592,30.8211,Ukraine,UA,Kyyivs’ka Oblast’,,3806,3806
+Lazy,48.0581,23.6450,Ukraine,UA,Zakarpats’ka Oblast’,,3801,3801
+Pavlivka,49.4411,28.4653,Ukraine,UA,Vinnyts’ka Oblast’,,3798,3798
+Komarno,49.6333,23.7000,Ukraine,UA,L’vivs’ka Oblast’,,3794,3794
+Vendychany,48.6130,27.7944,Ukraine,UA,Vinnyts’ka Oblast’,,3793,3793
+Chaplyne,48.1273,36.2374,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3783,3783
+Velykyi Burluk,50.0456,37.3906,Ukraine,UA,Kharkivs’ka Oblast’,,3772,3772
+Dmytrivka,48.3887,36.1918,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3772,3772
+Lypcha,48.2628,23.3819,Ukraine,UA,Zakarpats’ka Oblast’,,3769,3769
+Novosilky,50.3544,30.4544,Ukraine,UA,"Kyyiv, Misto",,3761,3761
+Medvyn,49.3903,30.7847,Ukraine,UA,Kyyivs’ka Oblast’,,3749,3749
+Nyzhnya Syrovatka,50.7814,34.8382,Ukraine,UA,Sums’ka Oblast’,,3717,3717
+Preobrazhenka,47.5784,35.8038,Ukraine,UA,Zaporiz’ka Oblast’,,3710,3710
+Losynivka,50.8300,31.9200,Ukraine,UA,Chernihivs’ka Oblast’,,3706,3706
+Kuchurhan,46.7236,29.9775,Ukraine,UA,Odes’ka Oblast’,,3700,3700
+Myhove,48.1500,25.3806,Ukraine,UA,Chernivets’ka Oblast’,,3693,3693
+Kashperivka,49.4311,29.6814,Ukraine,UA,Kyyivs’ka Oblast’,,3689,3689
+Zhvyrka,50.4650,24.2567,Ukraine,UA,L’vivs’ka Oblast’,,3665,3665
+Kamiani Potoky,48.9859,33.5186,Ukraine,UA,Poltavs’ka Oblast’,,3662,3662
+Voskresenka,47.4707,36.3570,Ukraine,UA,Zaporiz’ka Oblast’,,3648,3648
+Oleksiivka,47.5943,34.2377,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3600,3600
+Tsybuliv,49.0733,29.8472,Ukraine,UA,Cherkas’ka Oblast’,,3568,3568
+Osiy,48.3611,23.1194,Ukraine,UA,Zakarpats’ka Oblast’,,3555,3555
+Zatyshshia,47.3353,29.8708,Ukraine,UA,Odes’ka Oblast’,,3537,3537
+Verbivka,49.4883,36.8297,Ukraine,UA,Kharkivs’ka Oblast’,,3515,3515
+Kryukivshchyna,50.3683,30.3681,Ukraine,UA,Kyyivs’ka Oblast’,,3509,3509
+Kobyletska Poliana,48.0822,24.0747,Ukraine,UA,Zakarpats’ka Oblast’,,3498,3498
+Makhnivka,49.7219,28.6769,Ukraine,UA,Vinnyts’ka Oblast’,,3467,3467
+Kyrylivka,46.3731,35.3675,Ukraine,UA,Zaporiz’ka Oblast’,,3464,3464
+Hora,50.3708,30.8617,Ukraine,UA,Kyyivs’ka Oblast’,,3461,3461
+Pershotravensk,50.2011,27.6339,Ukraine,UA,Zhytomyrs’ka Oblast’,,3452,3452
+Shchebetovka,44.9389,35.1583,Ukraine,UA,"Krym, Avtonomna Respublika",,3442,3442
+Novopavlivka,48.1376,36.7827,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3439,3439
+Solonka,49.7400,24.0300,Ukraine,UA,L’vivs’ka Oblast’,,3391,3391
+Kozyn,50.2278,30.6500,Ukraine,UA,Kyyivs’ka Oblast’,,3371,3371
+Medenychi,49.4333,23.7500,Ukraine,UA,L’vivs’ka Oblast’,,3371,3371
+Machukhy,49.5296,34.4297,Ukraine,UA,Poltavs’ka Oblast’,,3337,3337
+Ropcha,48.1175,25.7925,Ukraine,UA,Chernivets’ka Oblast’,,3324,3324
+Mykolayivka,48.7867,35.1796,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3324,3324
+Hlukhivtsi,49.7728,28.7189,Ukraine,UA,Vinnyts’ka Oblast’,,3320,3320
+Malokaterynivka,47.6570,35.2591,Ukraine,UA,Zaporiz’ka Oblast’,,3320,3320
+Staryi Saltiv,50.0778,36.7933,Ukraine,UA,Kharkivs’ka Oblast’,,3318,3318
+Pluzhnoye,50.1803,26.5628,Ukraine,UA,Khmel’nyts’ka Oblast’,,3297,3297
+Koropets,48.9386,25.1794,Ukraine,UA,Ternopil’s’ka Oblast’,,3253,3253
+Ivanivtsi,48.4847,27.0147,Ukraine,UA,Chernivets’ka Oblast’,,3253,3253
+Khymchyn,48.3839,25.1497,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,3245,3245
+Sholokhove,47.6981,34.0238,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3230,3230
+Chervonyy Oskil,49.1744,37.4280,Ukraine,UA,Kharkivs’ka Oblast’,,3217,3217
+Vil’khivtsi-Lazy,48.1258,23.6975,Ukraine,UA,Zakarpats’ka Oblast’,,3215,3215
+Vylok,48.1000,22.8333,Ukraine,UA,Zakarpats’ka Oblast’,,3201,3201
+Rudnyky,49.4489,23.9136,Ukraine,UA,L’vivs’ka Oblast’,,3197,3197
+Lysychovo,48.4908,23.2742,Ukraine,UA,Zakarpats’ka Oblast’,,3187,3187
+Shpykiv,48.7870,28.5642,Ukraine,UA,Vinnyts’ka Oblast’,,3183,3183
+Kopashnovo,48.2156,23.4822,Ukraine,UA,Zakarpats’ka Oblast’,,3161,3161
+Ivanopil,49.8586,28.2156,Ukraine,UA,Zhytomyrs’ka Oblast’,,3154,3154
+Spaske,48.6579,35.0499,Ukraine,UA,Dnipropetrovs’ka Oblast’,,3145,3145
+Rozivka,47.3929,37.0694,Ukraine,UA,Zaporiz’ka Oblast’,minor,3140,3140
+Lazurne,46.0808,32.5200,Ukraine,UA,Khersons’ka Oblast’,,3140,3140
+Novi Bilokorovychi,51.0475,28.0519,Ukraine,UA,Zhytomyrs’ka Oblast’,,3117,3117
+Pryshyb,47.2564,35.3239,Ukraine,UA,Zaporiz’ka Oblast’,,3110,3110
+Krasnyi Kut,48.2119,38.7767,Ukraine,UA,Luhans’ka Oblast’,,3108,3108
+Hlyniany,49.8233,24.5167,Ukraine,UA,L’vivs’ka Oblast’,,3103,3103
+Novoekonomichne,48.3278,37.3319,Ukraine,UA,Donets’ka Oblast’,,3098,3098
+Orilka,48.9805,36.0075,Ukraine,UA,Kharkivs’ka Oblast’,,3095,3095
+Lukiv,51.2333,24.3475,Ukraine,UA,Volyns’ka Oblast’,,3090,3090
+Malyy Rakovets’,48.2642,23.2064,Ukraine,UA,Zakarpats’ka Oblast’,,3086,3086
+Olyka,50.7167,25.8167,Ukraine,UA,Volyns’ka Oblast’,,3079,3079
+Horinchovo,48.2697,23.4339,Ukraine,UA,Zakarpats’ka Oblast’,,3071,3071
+Koviahy,49.9044,35.5586,Ukraine,UA,Kharkivs’ka Oblast’,,3045,3045
+Nyzhnie Selyshche,48.1997,23.4475,Ukraine,UA,Zakarpats’ka Oblast’,,3044,3044
+Obertyn,48.6894,25.1700,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,3034,3034
+Mykhailo-Kotsiubynske,51.4550,31.0772,Ukraine,UA,Chernihivs’ka Oblast’,,3028,3028
+Bila Tserkva,47.9500,23.9333,Ukraine,UA,Zakarpats’ka Oblast’,,3024,3024
+Holovne,51.3333,24.0833,Ukraine,UA,Volyns’ka Oblast’,,3013,3013
+Batovo,48.3667,22.3833,Ukraine,UA,Zakarpats’ka Oblast’,,3003,3003
+Novyi Yarychiv,49.9019,24.3033,Ukraine,UA,L’vivs’ka Oblast’,,3002,3002
+Berezovo,48.3039,23.4892,Ukraine,UA,Zakarpats’ka Oblast’,,3000,3000
+Stari Petrivtsi,50.6525,30.4158,Ukraine,UA,Kyyivs’ka Oblast’,,2963,2963
+Hozhuly,49.6056,34.4479,Ukraine,UA,Poltavs’ka Oblast’,,2947,2947
+Myrne,46.9502,35.4431,Ukraine,UA,Zaporiz’ka Oblast’,,2944,2944
+Sadky,49.0090,33.4602,Ukraine,UA,Poltavs’ka Oblast’,,2939,2939
+Lysets,48.8717,24.6047,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2914,2914
+Polovynkyne,49.2250,38.9150,Ukraine,UA,Luhans’ka Oblast’,,2913,2913
+Urzuf,46.9119,37.0936,Ukraine,UA,Donets’ka Oblast’,,2904,2904
+Staryi Mizun,48.9206,23.8739,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2879,2879
+Myropillya,51.0225,35.2603,Ukraine,UA,Sums’ka Oblast’,,2873,2873
+Chervone,49.9497,28.8686,Ukraine,UA,Zhytomyrs’ka Oblast’,,2859,2859
+Pervomaiskyi,47.9736,38.7875,Ukraine,UA,Donets’ka Oblast’,,2837,2837
+Lychkove,49.0918,35.2078,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2822,2822
+Stanislavchyk,48.9728,28.1028,Ukraine,UA,Vinnyts’ka Oblast’,,2813,2813
+Babyntsi,50.6411,30.0269,Ukraine,UA,Kyyivs’ka Oblast’,,2810,2810
+Yezupil,49.0431,24.7764,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2807,2807
+Koktebel,44.9600,35.2406,Ukraine,UA,"Krym, Avtonomna Respublika",,2807,2807
+Orativ,49.1876,29.5289,Ukraine,UA,Vinnyts’ka Oblast’,minor,2804,2804
+Oleksandrivka,48.5173,35.2304,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2799,2799
+Dertsen,48.3350,22.6825,Ukraine,UA,Zakarpats’ka Oblast’,,2793,2793
+Holubyne,48.5714,22.9697,Ukraine,UA,Zakarpats’ka Oblast’,,2781,2781
+Blyzhnie,45.0569,35.3306,Ukraine,UA,"Krym, Avtonomna Respublika",,2779,2779
+Narodychi,51.2029,29.0823,Ukraine,UA,Zhytomyrs’ka Oblast’,,2770,2770
+Voinyliv,49.1194,24.4936,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2757,2757
+Andriivka,47.1026,36.5871,Ukraine,UA,Zaporiz’ka Oblast’,,2755,2755
+Poliana,48.6253,22.9697,Ukraine,UA,Zakarpats’ka Oblast’,,2747,2747
+Sheludkivka,49.6778,36.5433,Ukraine,UA,Kharkivs’ka Oblast’,,2746,2746
+Askaniia-Nova,46.4511,33.8683,Ukraine,UA,Khersons’ka Oblast’,,2741,2741
+Imstychovo,48.2953,23.1969,Ukraine,UA,Zakarpats’ka Oblast’,,2729,2729
+Chernivtsi,48.5425,28.1122,Ukraine,UA,Vinnyts’ka Oblast’,minor,2725,2725
+Hlodosy,48.4614,31.3294,Ukraine,UA,Kirovohrads’ka Oblast’,,2722,2722
+Sernyky,51.8217,26.2358,Ukraine,UA,Rivnens’ka Oblast’,,2716,2716
+Shramkivka,50.1333,32.1333,Ukraine,UA,Cherkas’ka Oblast’,,2709,2709
+Kotovka,49.1301,34.9428,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2689,2689
+Khroly,49.9014,36.3687,Ukraine,UA,Kharkivs’ka Oblast’,,2687,2687
+Petrushiv,48.0767,23.8064,Ukraine,UA,Zakarpats’ka Oblast’,,2687,2687
+Smyha,50.2400,25.7658,Ukraine,UA,Khmel’nyts’ka Oblast’,,2668,2668
+Popeli,49.3092,23.3850,Ukraine,UA,L’vivs’ka Oblast’,,2636,2636
+Molodkiv,48.6568,24.5085,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2629,2629
+Lyubymivka,48.3721,35.1772,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2610,2610
+Ustia,48.3778,29.6606,Ukraine,UA,Vinnyts’ka Oblast’,,2610,2610
+Delen,45.9125,29.1878,Ukraine,UA,Odes’ka Oblast’,,2606,2606
+Saksahan,48.3468,33.8406,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2603,2603
+Partyzanske,48.5871,34.8143,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2591,2591
+Kurylivka,48.5732,34.6104,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2583,2583
+Kaihador,44.9633,35.3553,Ukraine,UA,"Krym, Avtonomna Respublika",,2572,2572
+Barturyn,51.3333,32.8833,Ukraine,UA,Chernihivs’ka Oblast’,,2552,2552
+Sursko-Mykhailivka,48.2720,34.7276,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2552,2552
+Kyinka,51.4544,31.1983,Ukraine,UA,Chernihivs’ka Oblast’,,2552,2552
+Lypetska Poliana,48.3344,23.3594,Ukraine,UA,Zakarpats’ka Oblast’,,2544,2544
+Trushki,49.7544,29.9428,Ukraine,UA,Kyyivs’ka Oblast’,,2531,2531
+Novoselytsia,48.4333,26.9814,Ukraine,UA,Chernivets’ka Oblast’,,2520,2520
+Bilokorovychi,51.1089,28.0175,Ukraine,UA,Zhytomyrs’ka Oblast’,,2520,2520
+Ivana Franka,49.3619,23.3206,Ukraine,UA,L’vivs’ka Oblast’,,2518,2518
+Chornukhy,50.2699,32.9476,Ukraine,UA,Poltavs’ka Oblast’,,2491,2491
+Tomashhorod,51.3122,27.0250,Ukraine,UA,Rivnens’ka Oblast’,,2487,2487
+Babche,48.6667,24.4417,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2484,2484
+Khomutets,50.0619,33.7235,Ukraine,UA,Poltavs’ka Oblast’,,2477,2477
+Bilousivka,49.9453,32.3714,Ukraine,UA,Cherkas’ka Oblast’,,2473,2473
+Nikita,44.5111,34.2353,Ukraine,UA,"Krym, Avtonomna Respublika",,2466,2466
+Stari Kryvotuly,48.7858,24.8556,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2466,2466
+Nahiryanka,48.9308,25.7342,Ukraine,UA,Ternopil’s’ka Oblast’,,2460,2460
+Vovkovyntsi,49.2085,27.6560,Ukraine,UA,Khmel’nyts’ka Oblast’,,2458,2458
+Pershotravneve,51.3929,28.8684,Ukraine,UA,Zhytomyrs’ka Oblast’,,2454,2454
+Korytne,48.3336,25.3753,Ukraine,UA,Chernivets’ka Oblast’,,2452,2452
+Tereshky,49.5471,34.6227,Ukraine,UA,Poltavs’ka Oblast’,,2450,2450
+Prydniprovske,47.6182,34.4506,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2443,2443
+Zarichany,50.2300,28.6500,Ukraine,UA,Zhytomyrs’ka Oblast’,,2439,2439
+Yelizavetivka,48.6197,34.6496,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2439,2439
+Aviatorske,48.3664,35.0830,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2438,2438
+Chyshky,49.7975,24.1689,Ukraine,UA,L’vivs’ka Oblast’,,2426,2426
+Parafiivka,50.8850,32.6464,Ukraine,UA,Chernihivs’ka Oblast’,,2407,2407
+Zalukva,49.1192,24.7111,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2403,2403
+Morske,44.8306,34.8014,Ukraine,UA,"Krym, Avtonomna Respublika",,2394,2394
+Satanov,49.2500,26.2667,Ukraine,UA,Khmel’nyts’ka Oblast’,,2393,2393
+Vyrishal’ne,50.1914,33.4488,Ukraine,UA,Poltavs’ka Oblast’,,2387,2387
+Strilky,49.3264,22.9717,Ukraine,UA,L’vivs’ka Oblast’,,2375,2375
+Mykhailivka,48.4964,38.9025,Ukraine,UA,Luhans’ka Oblast’,,2373,2373
+Chornivka,48.4186,26.0106,Ukraine,UA,Chernivets’ka Oblast’,,2364,2364
+Shalyhyne,51.5676,34.1197,Ukraine,UA,Sums’ka Oblast’,,2363,2363
+Sharovechka,49.4150,26.8986,Ukraine,UA,Khmel’nyts’ka Oblast’,,2359,2359
+Vyshneve,48.4369,33.9185,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2347,2347
+Izobilne,44.7014,34.3533,Ukraine,UA,"Krym, Avtonomna Respublika",,2333,2333
+Verkhnosadove,44.6889,33.7056,Ukraine,UA,"Sevastopol’, Misto",,2331,2331
+Aeroflotskyi,45.0194,34.0000,Ukraine,UA,"Krym, Avtonomna Respublika",,2325,2325
+Lenkivtsi,48.5056,26.7586,Ukraine,UA,Chernivets’ka Oblast’,,2325,2325
+Drachyntsi,48.3164,25.7003,Ukraine,UA,Chernivets’ka Oblast’,,2324,2324
+Zhovte,48.5041,33.5401,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2315,2315
+Belz,50.3833,24.0167,Ukraine,UA,L’vivs’ka Oblast’,,2308,2308
+Slov”yanka,48.3997,36.7152,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2304,2304
+Verbka,48.2139,29.2847,Ukraine,UA,Vinnyts’ka Oblast’,,2295,2295
+Perebykivtsi,48.5861,26.1358,Ukraine,UA,Chernivets’ka Oblast’,,2292,2292
+Vyhoda,48.9667,23.9500,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2287,2287
+Nyzhnii Bystryi,48.3628,23.5272,Ukraine,UA,Zakarpats’ka Oblast’,,2260,2260
+Matroska,45.3450,28.7758,Ukraine,UA,Odes’ka Oblast’,,2259,2259
+Velyki Korovyntsi,49.9714,28.2947,Ukraine,UA,Zhytomyrs’ka Oblast’,,2258,2258
+Novovasylivka,46.8314,35.7543,Ukraine,UA,Zaporiz’ka Oblast’,,2253,2253
+Zhniatyno,48.3506,22.5958,Ukraine,UA,Zakarpats’ka Oblast’,,2243,2243
+Kosari,49.0450,32.1817,Ukraine,UA,Cherkas’ka Oblast’,,2243,2243
+Zavorychi,50.7056,31.1328,Ukraine,UA,Kyyivs’ka Oblast’,,2241,2241
+Osynove,49.5636,39.0675,Ukraine,UA,Luhans’ka Oblast’,,2240,2240
+Topchyno,48.0389,23.8528,Ukraine,UA,Zakarpats’ka Oblast’,,2238,2238
+Vyshcheolchedaiv,48.7236,27.6842,Ukraine,UA,Vinnyts’ka Oblast’,,2236,2236
+Sytkivtsi,48.9066,29.2022,Ukraine,UA,Vinnyts’ka Oblast’,,2235,2235
+Chornotysiv,48.0783,23.0536,Ukraine,UA,Zakarpats’ka Oblast’,,2232,2232
+Takhtaulove,49.6616,34.5294,Ukraine,UA,Poltavs’ka Oblast’,,2231,2231
+Pidhorodna,48.1070,30.8895,Ukraine,UA,Mykolayivs’ka Oblast’,,2225,2225
+Stari Troiany,45.6719,29.1703,Ukraine,UA,Odes’ka Oblast’,,2225,2225
+Utoropy,48.3864,24.9831,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2218,2218
+Bilokrynnytsia,50.1429,25.7497,Ukraine,UA,Ternopil’s’ka Oblast’,,2215,2215
+Fedorivka,47.5455,36.5555,Ukraine,UA,Zaporiz’ka Oblast’,,2214,2214
+Slavhorod,48.1097,35.5109,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2211,2211
+Borki,49.9133,23.9178,Ukraine,UA,L’vivs’ka Oblast’,,2203,2203
+Nova Haleshchyna,49.1688,33.7584,Ukraine,UA,Poltavs’ka Oblast’,,2201,2201
+Yur”yivka,48.7397,36.0216,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2195,2195
+Vysunsk,47.2564,32.8189,Ukraine,UA,Mykolayivs’ka Oblast’,,2191,2191
+Komysh-Zoria,47.3275,36.6931,Ukraine,UA,Zaporiz’ka Oblast’,,2188,2188
+Velykyi Khutir,49.8617,32.1053,Ukraine,UA,Cherkas’ka Oblast’,,2184,2184
+Obolon,49.6040,32.8765,Ukraine,UA,Poltavs’ka Oblast’,,2183,2183
+Mykhaylivka,47.9527,35.2650,Ukraine,UA,Zaporiz’ka Oblast’,,2177,2177
+Ustyluh,50.8600,24.1569,Ukraine,UA,Volyns’ka Oblast’,,2176,2176
+Nelypivtsi,48.4200,26.9200,Ukraine,UA,Chernivets’ka Oblast’,,2171,2171
+Voinivka,48.7086,33.0611,Ukraine,UA,Kirovohrads’ka Oblast’,,2171,2171
+Khomenky,48.6853,28.2306,Ukraine,UA,Vinnyts’ka Oblast’,,2165,2165
+Novopetrivka,46.8266,36.8944,Ukraine,UA,Zaporiz’ka Oblast’,,2161,2161
+Rotmistrivka,49.1489,31.7158,Ukraine,UA,Cherkas’ka Oblast’,,2156,2156
+Liubar,49.9205,27.7592,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,2153,2153
+Piilo,49.0028,24.3036,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2150,2150
+Skhidnytsia,49.2013,23.3617,Ukraine,UA,L’vivs’ka Oblast’,,2149,2149
+Mali Kopani,46.4356,32.7289,Ukraine,UA,Khersons’ka Oblast’,,2147,2147
+Babyn,48.5242,26.8553,Ukraine,UA,Chernivets’ka Oblast’,,2143,2143
+Sokolivka,48.4419,28.9922,Ukraine,UA,Vinnyts’ka Oblast’,,2134,2134
+Kovalivka,49.6060,34.7000,Ukraine,UA,Poltavs’ka Oblast’,,2133,2133
+Pryshyb,49.5115,36.7510,Ukraine,UA,Kharkivs’ka Oblast’,,2132,2132
+Bulakhivka,48.5995,35.6663,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2128,2128
+Berezyna,49.4461,24.0672,Ukraine,UA,L’vivs’ka Oblast’,,2127,2127
+Rososhany,48.3986,26.9994,Ukraine,UA,Chernivets’ka Oblast’,,2125,2125
+Stare Selo,49.7036,24.1917,Ukraine,UA,L’vivs’ka Oblast’,,2119,2119
+Hertsa,48.1500,26.2500,Ukraine,UA,Chernivets’ka Oblast’,minor,2118,2118
+Preslav,46.6879,36.2135,Ukraine,UA,Zaporiz’ka Oblast’,,2109,2109
+Kornyn,50.0839,29.5375,Ukraine,UA,Zhytomyrs’ka Oblast’,,2108,2108
+Lisovi Hrynivtsi,49.4744,27.0158,Ukraine,UA,Khmel’nyts’ka Oblast’,,2108,2108
+Malomykolaivka,48.3069,39.0219,Ukraine,UA,Luhans’ka Oblast’,,2096,2096
+Stinka,48.9172,25.2504,Ukraine,UA,Ternopil’s’ka Oblast’,,2090,2090
+Tynytsia,51.1333,32.9167,Ukraine,UA,Chernihivs’ka Oblast’,,2088,2088
+Liubech,51.7052,30.6617,Ukraine,UA,Chernihivs’ka Oblast’,,2086,2086
+Berezhynka,48.4867,32.3547,Ukraine,UA,Kirovohrads’ka Oblast’,,2082,2082
+Bilyne,47.8731,29.6244,Ukraine,UA,Odes’ka Oblast’,,2074,2074
+Svyatets,49.8439,26.2975,Ukraine,UA,Khmel’nyts’ka Oblast’,,2074,2074
+Yabluniv,48.4042,24.9387,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2070,2070
+Klenovyi,48.1189,39.4564,Ukraine,UA,Luhans’ka Oblast’,,2070,2070
+Maidanetske,48.8169,30.7100,Ukraine,UA,Cherkas’ka Oblast’,,2069,2069
+Tartak,48.2022,29.4119,Ukraine,UA,Vinnyts’ka Oblast’,,2064,2064
+Dubivtsi,49.0814,24.7736,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2059,2059
+Hubnyk,48.6192,29.3306,Ukraine,UA,Vinnyts’ka Oblast’,,2055,2055
+Vilne,45.5656,34.3064,Ukraine,UA,"Krym, Avtonomna Respublika",,2055,2055
+Kapulivka,47.5476,34.2266,Ukraine,UA,Dnipropetrovs’ka Oblast’,,2053,2053
+Potoky,49.0973,33.5784,Ukraine,UA,Poltavs’ka Oblast’,,2050,2050
+Uhroyidy,50.8626,35.2688,Ukraine,UA,Sums’ka Oblast’,,2046,2046
+Moshoryne,48.6158,32.7219,Ukraine,UA,Kirovohrads’ka Oblast’,,2045,2045
+Belobozhnitsa,49.0494,25.6814,Ukraine,UA,Ternopil’s’ka Oblast’,,2035,2035
+Barashi,50.7156,28.0308,Ukraine,UA,Zhytomyrs’ka Oblast’,,2032,2032
+Tiudiv,48.2394,25.1303,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,2031,2031
+Kozhanka,49.9681,29.7647,Ukraine,UA,Kyyivs’ka Oblast’,,2029,2029
+Prykolotne,50.1586,37.3367,Ukraine,UA,Kharkivs’ka Oblast’,,2026,2026
+Borozenske,47.1786,33.4197,Ukraine,UA,Khersons’ka Oblast’,,2024,2024
+Piatyhory,49.3397,29.9089,Ukraine,UA,Kyyivs’ka Oblast’,,2017,2017
+Viitivtsi,49.6239,27.9014,Ukraine,UA,Vinnyts’ka Oblast’,,2015,2015
+Andrushky,49.8731,29.3433,Ukraine,UA,Zhytomyrs’ka Oblast’,,2014,2014
+Dovzhok,48.2392,28.5261,Ukraine,UA,Vinnyts’ka Oblast’,,2013,2013
+Mazurivka,48.6569,28.8142,Ukraine,UA,Vinnyts’ka Oblast’,,2010,2010
+Mostove,47.4172,30.9883,Ukraine,UA,Mykolayivs’ka Oblast’,,2008,2008
+Ploske,50.5378,31.1003,Ukraine,UA,Kyyivs’ka Oblast’,,2007,2007
+Chkalove,47.6950,34.3216,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1996,1996
+Vilne,48.7427,35.2941,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1994,1994
+Velyka Kyriivka,48.3772,29.6247,Ukraine,UA,Vinnyts’ka Oblast’,,1993,1993
+Lykhivka,48.6874,33.9228,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1992,1992
+Prybuzhzhia,47.6719,31.2422,Ukraine,UA,Mykolayivs’ka Oblast’,,1989,1989
+Ozaryntsi,48.5406,27.8069,Ukraine,UA,Vinnyts’ka Oblast’,,1987,1987
+Yablunytsia,48.3161,24.5033,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1986,1986
+Sheshory,48.3364,24.9911,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1984,1984
+Opytne,48.5542,38.0169,Ukraine,UA,Donets’ka Oblast’,,1983,1983
+Dobrovlyany,48.6641,25.7540,Ukraine,UA,Ternopil’s’ka Oblast’,,1980,1980
+Zelena,48.3628,26.7250,Ukraine,UA,Chernivets’ka Oblast’,,1980,1980
+Bandurove,48.2275,29.8606,Ukraine,UA,Kirovohrads’ka Oblast’,,1980,1980
+Krasnosilka,48.5064,29.6214,Ukraine,UA,Vinnyts’ka Oblast’,,1978,1978
+Chaplynka,48.7348,34.7726,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1978,1978
+Chumaky,48.6579,34.8739,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1977,1977
+Lypne,51.0189,26.0344,Ukraine,UA,Volyns’ka Oblast’,,1976,1976
+V”yazivok,48.6430,35.7708,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1973,1973
+Berezova Rudka,50.3153,32.2401,Ukraine,UA,Poltavs’ka Oblast’,,1971,1971
+Chemer,51.0989,31.2186,Ukraine,UA,Chernihivs’ka Oblast’,,1971,1971
+Kvitneve,49.9847,29.5158,Ukraine,UA,Zhytomyrs’ka Oblast’,,1969,1969
+Velyka Burimka,49.6089,32.6381,Ukraine,UA,Cherkas’ka Oblast’,,1967,1967
+Velykomykhaylivka,47.9720,36.4723,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1963,1963
+Dubyshche,50.9264,25.3000,Ukraine,UA,Volyns’ka Oblast’,,1958,1958
+Vysokopillia,49.9186,35.4203,Ukraine,UA,Kharkivs’ka Oblast’,,1957,1957
+Ivanivka,48.7276,34.5755,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1957,1957
+Lativka,46.5642,30.7114,Ukraine,UA,Odes’ka Oblast’,,1955,1955
+Semykozivka,49.2433,39.5678,Ukraine,UA,Luhans’ka Oblast’,,1949,1949
+Vakulenchuk,49.9417,28.3031,Ukraine,UA,Zhytomyrs’ka Oblast’,,1947,1947
+Bilshivtsi,49.1833,24.7500,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1938,1938
+Poberezhzhia,49.0200,24.8225,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1938,1938
+Semenivka,47.9347,31.0594,Ukraine,UA,Mykolayivs’ka Oblast’,,1937,1937
+Repuzhyntsi,48.6531,25.7931,Ukraine,UA,Chernivets’ka Oblast’,,1936,1936
+Troianiv,50.1133,28.5231,Ukraine,UA,Zhytomyrs’ka Oblast’,,1929,1929
+Priadivka,48.9198,34.7067,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1922,1922
+Serby,48.1014,29.0667,Ukraine,UA,Odes’ka Oblast’,,1921,1921
+Serdyte,48.0417,38.3883,Ukraine,UA,Donets’ka Oblast’,,1920,1920
+Mala Petrykivka,48.7141,34.6603,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1917,1917
+Borovytsia,49.2433,32.4889,Ukraine,UA,Cherkas’ka Oblast’,,1909,1909
+Sukha,48.4292,23.2997,Ukraine,UA,Zakarpats’ka Oblast’,,1906,1906
+Kumachove,47.6239,38.2642,Ukraine,UA,Donets’ka Oblast’,,1903,1903
+Hvizdets,48.5753,25.2831,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1902,1902
+Nemyriv,50.1039,23.4344,Ukraine,UA,L’vivs’ka Oblast’,,1900,1900
+Vyshnivchyk,49.0211,26.4672,Ukraine,UA,Khmel’nyts’ka Oblast’,,1897,1897
+Pishchane,49.2692,38.9511,Ukraine,UA,Luhans’ka Oblast’,,1896,1896
+Velyka Byihan,48.2481,22.5747,Ukraine,UA,Zakarpats’ka Oblast’,,1893,1893
+Monastyrets,48.2928,23.4278,Ukraine,UA,Zakarpats’ka Oblast’,,1891,1891
+Horoshova,48.5457,26.1050,Ukraine,UA,Chernivets’ka Oblast’,,1891,1891
+Chopovychi,50.8333,28.9525,Ukraine,UA,Zhytomyrs’ka Oblast’,,1888,1888
+Mykhailivka,48.8075,28.2906,Ukraine,UA,Vinnyts’ka Oblast’,,1888,1888
+Doslidnytske,49.9219,30.1478,Ukraine,UA,Kyyivs’ka Oblast’,,1881,1881
+Pristromy,50.2253,31.4311,Ukraine,UA,Kyyivs’ka Oblast’,,1880,1880
+Samhorodok,49.5306,28.8417,Ukraine,UA,Vinnyts’ka Oblast’,,1878,1878
+Shamraivka,49.7719,29.8328,Ukraine,UA,Kyyivs’ka Oblast’,,1877,1877
+Kniazhdvir,48.5581,24.9128,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1875,1875
+Zelenky,49.7467,30.9286,Ukraine,UA,Kyyivs’ka Oblast’,,1873,1873
+Holovyne,50.4725,28.8281,Ukraine,UA,Zhytomyrs’ka Oblast’,,1867,1867
+Pryvitne,44.8222,34.6778,Ukraine,UA,"Krym, Avtonomna Respublika",,1867,1867
+Shcherbani,49.5334,34.5385,Ukraine,UA,Poltavs’ka Oblast’,,1864,1864
+Vilkhivka,48.2633,23.0656,Ukraine,UA,Zakarpats’ka Oblast’,,1857,1857
+Simer,48.7322,22.5169,Ukraine,UA,Zakarpats’ka Oblast’,,1856,1856
+Ostriv,50.3939,24.1697,Ukraine,UA,L’vivs’ka Oblast’,,1849,1849
+Ternivka,44.5819,33.7444,Ukraine,UA,"Krym, Avtonomna Respublika",,1843,1843
+Piatkivka,48.3189,29.3833,Ukraine,UA,Vinnyts’ka Oblast’,,1841,1841
+Pysarivka,48.3264,28.3956,Ukraine,UA,Vinnyts’ka Oblast’,,1840,1840
+Bohdanivka,47.8158,31.1344,Ukraine,UA,Mykolayivs’ka Oblast’,,1839,1839
+Pysarivka,49.5200,26.4458,Ukraine,UA,Khmel’nyts’ka Oblast’,,1837,1837
+Staryy Chortoryys’k,51.2242,25.8825,Ukraine,UA,Volyns’ka Oblast’,,1829,1829
+Vakhnivka,49.3200,28.8433,Ukraine,UA,Vinnyts’ka Oblast’,,1828,1828
+Zinkiv,49.0769,27.0722,Ukraine,UA,Khmel’nyts’ka Oblast’,,1822,1822
+Belogorodka,50.0042,26.6475,Ukraine,UA,Khmel’nyts’ka Oblast’,,1816,1816
+Vovche,49.2111,22.9094,Ukraine,UA,L’vivs’ka Oblast’,,1813,1813
+Velyka Pavlivka,50.2369,34.2683,Ukraine,UA,Poltavs’ka Oblast’,,1813,1813
+Novopokrovka,48.0552,34.6132,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1807,1807
+Komariv,48.5597,26.9883,Ukraine,UA,Chernivets’ka Oblast’,,1804,1804
+Svitlohirske,48.3447,34.5089,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1801,1801
+Severynivka,49.0511,27.9458,Ukraine,UA,Vinnyts’ka Oblast’,,1800,1800
+Tsybuleve,48.8144,32.4878,Ukraine,UA,Kirovohrads’ka Oblast’,,1797,1797
+Ostapovo,49.3786,26.0358,Ukraine,UA,Ternopil’s’ka Oblast’,,1785,1785
+Horodyshche,49.0511,39.6514,Ukraine,UA,Luhans’ka Oblast’,,1777,1777
+Stavchany,49.7575,23.8392,Ukraine,UA,L’vivs’ka Oblast’,,1775,1775
+Ternivka,48.3944,28.9019,Ukraine,UA,Vinnyts’ka Oblast’,,1775,1775
+Vil’bivne,50.3597,26.5667,Ukraine,UA,Rivnens’ka Oblast’,,1771,1771
+Baibuzy,49.4772,31.6728,Ukraine,UA,Cherkas’ka Oblast’,,1765,1765
+Bilozirka,47.0853,32.4544,Ukraine,UA,Mykolayivs’ka Oblast’,,1757,1757
+Shepit,48.2653,24.8567,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1752,1752
+Novotaromske,48.4015,34.6784,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1751,1751
+Kolybaivka,48.6411,26.5450,Ukraine,UA,Khmel’nyts’ka Oblast’,,1742,1742
+Hirne,49.1806,23.7342,Ukraine,UA,L’vivs’ka Oblast’,,1740,1740
+Razdory,48.3285,35.7045,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1739,1739
+Chervone,49.8028,24.7656,Ukraine,UA,L’vivs’ka Oblast’,,1738,1738
+Vynohradne,47.0906,37.6603,Ukraine,UA,Donets’ka Oblast’,,1738,1738
+Bykivka,50.2928,27.9831,Ukraine,UA,Zhytomyrs’ka Oblast’,,1734,1734
+Byrlivka,50.0853,32.0725,Ukraine,UA,Cherkas’ka Oblast’,,1729,1729
+Hrabiv,48.9047,23.9989,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1723,1723
+Ivankov,48.8242,26.1724,Ukraine,UA,Ternopil’s’ka Oblast’,,1718,1718
+Maidan,48.6117,23.5019,Ukraine,UA,Zakarpats’ka Oblast’,,1717,1717
+Deleva,48.9117,25.2208,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1712,1712
+Havryshivka,49.2367,28.6425,Ukraine,UA,Vinnyts’ka Oblast’,,1712,1712
+Berestechko,50.3500,25.1167,Ukraine,UA,Volyns’ka Oblast’,,1711,1711
+Syniukhyn Brid,48.1458,30.8208,Ukraine,UA,Mykolayivs’ka Oblast’,,1708,1708
+Karpylivka,50.8483,25.8406,Ukraine,UA,Volyns’ka Oblast’,,1699,1699
+Krylos,49.0883,24.6886,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1697,1697
+Huta,51.6289,24.1264,Ukraine,UA,Volyns’ka Oblast’,,1694,1694
+Andriievo-Ivanivka,47.5008,30.4633,Ukraine,UA,Odes’ka Oblast’,,1692,1692
+Bokhonyky,49.1644,28.3800,Ukraine,UA,Vinnyts’ka Oblast’,,1690,1690
+Novozarivka,47.6406,38.1311,Ukraine,UA,Donets’ka Oblast’,,1688,1688
+Bilche,49.4100,23.8294,Ukraine,UA,L’vivs’ka Oblast’,,1684,1684
+Samchyky,49.7592,27.3869,Ukraine,UA,Khmel’nyts’ka Oblast’,,1682,1682
+Veryn,49.4844,23.9903,Ukraine,UA,L’vivs’ka Oblast’,,1680,1680
+Abazivka,49.6053,34.3499,Ukraine,UA,Poltavs’ka Oblast’,,1679,1679
+Bochechky,51.2994,33.4176,Ukraine,UA,Sums’ka Oblast’,,1679,1679
+Chernyatin,49.0475,27.9089,Ukraine,UA,Vinnyts’ka Oblast’,,1677,1677
+Sharivka,50.0272,35.4411,Ukraine,UA,Kharkivs’ka Oblast’,,1674,1674
+Imeni Shevchenko,48.2200,37.1453,Ukraine,UA,Donets’ka Oblast’,,1674,1674
+Polianka,50.2584,27.6881,Ukraine,UA,Zhytomyrs’ka Oblast’,,1672,1672
+Tavrychanka,46.5533,33.8203,Ukraine,UA,Khersons’ka Oblast’,,1671,1671
+Kocherezhky,48.6681,35.6895,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1670,1670
+Kyslychuvata,47.8508,34.7262,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1657,1657
+Iltsi,48.1531,24.7600,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1653,1653
+Velyka Andrusivka,49.0533,32.9544,Ukraine,UA,Kirovohrads’ka Oblast’,,1647,1647
+Kovalivka,49.9847,30.0131,Ukraine,UA,Kyyivs’ka Oblast’,,1646,1646
+Volosianka,48.9808,22.8072,Ukraine,UA,Zakarpats’ka Oblast’,,1646,1646
+Buzovytsia,48.5014,26.9275,Ukraine,UA,Chernivets’ka Oblast’,,1642,1642
+Vilshanka,48.2458,28.6256,Ukraine,UA,Vinnyts’ka Oblast’,,1640,1640
+Rybakivka,46.6203,31.3514,Ukraine,UA,Mykolayivs’ka Oblast’,,1640,1640
+Holma,47.9211,29.8531,Ukraine,UA,Odes’ka Oblast’,,1635,1635
+Krasnopilka,48.8000,29.7178,Ukraine,UA,Vinnyts’ka Oblast’,,1627,1627
+Troiandove,46.8944,30.8611,Ukraine,UA,Odes’ka Oblast’,,1623,1623
+Stari Kodaky,48.3792,35.1332,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1619,1619
+Palanka,48.7294,30.0983,Ukraine,UA,Cherkas’ka Oblast’,,1608,1608
+Kuchakiv,50.3756,31.1264,Ukraine,UA,Kyyivs’ka Oblast’,,1605,1605
+Borivtsi,48.5867,25.6361,Ukraine,UA,Chernivets’ka Oblast’,,1601,1601
+Holovy,48.0619,24.8789,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1599,1599
+Birky,51.8081,25.1947,Ukraine,UA,Volyns’ka Oblast’,,1599,1599
+Verchany,49.2619,23.8992,Ukraine,UA,L’vivs’ka Oblast’,,1594,1594
+Sviatylivka,49.4628,32.8108,Ukraine,UA,Poltavs’ka Oblast’,,1594,1594
+Mykolaivka,47.9850,34.1545,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1594,1594
+Zarichchia,50.8383,24.2975,Ukraine,UA,Volyns’ka Oblast’,,1590,1590
+Vladychen,45.5656,28.6039,Ukraine,UA,Odes’ka Oblast’,,1587,1587
+Huiva,50.2108,28.6553,Ukraine,UA,Zhytomyrs’ka Oblast’,,1585,1585
+Velykyi Zhvanchyk,48.7617,26.9631,Ukraine,UA,Khmel’nyts’ka Oblast’,,1584,1584
+Nasypne,45.0458,35.2958,Ukraine,UA,"Krym, Avtonomna Respublika",,1581,1581
+Plodorodne,47.1651,35.3162,Ukraine,UA,Zaporiz’ka Oblast’,,1577,1577
+Radisne,46.9997,30.3397,Ukraine,UA,Odes’ka Oblast’,,1572,1572
+Cherepashyntsi,49.5325,28.5928,Ukraine,UA,Vinnyts’ka Oblast’,,1571,1571
+Mankivka,48.4819,29.6281,Ukraine,UA,Vinnyts’ka Oblast’,,1567,1567
+Chernelytsya,48.8111,25.4300,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1564,1564
+Lyutens’ki Budyshcha,50.1837,34.2328,Ukraine,UA,Poltavs’ka Oblast’,,1562,1562
+Ust-Chorna,48.3192,23.9389,Ukraine,UA,Zakarpats’ka Oblast’,,1560,1560
+Lukovo,48.3197,23.2108,Ukraine,UA,Zakarpats’ka Oblast’,,1558,1558
+Bystryk,49.7364,29.1436,Ukraine,UA,Zhytomyrs’ka Oblast’,,1557,1557
+Hrechyshkyne,48.8642,38.8950,Ukraine,UA,Luhans’ka Oblast’,,1549,1549
+Rokyni,50.8333,25.2833,Ukraine,UA,Volyns’ka Oblast’,,1548,1548
+Trostianets,48.3578,28.2317,Ukraine,UA,Vinnyts’ka Oblast’,,1545,1545
+Baranykivka,49.1586,39.8453,Ukraine,UA,Luhans’ka Oblast’,,1544,1544
+Ivashkivtsi,48.7439,27.9475,Ukraine,UA,Vinnyts’ka Oblast’,,1543,1543
+Bazaliia,49.7178,26.4708,Ukraine,UA,Khmel’nyts’ka Oblast’,,1541,1541
+Doroshivtsi,48.5872,25.8931,Ukraine,UA,Chernivets’ka Oblast’,,1534,1534
+Rogozno,49.8747,23.3397,Ukraine,UA,L’vivs’ka Oblast’,,1529,1529
+Derno,50.7728,25.7458,Ukraine,UA,Volyns’ka Oblast’,,1529,1529
+Zaliznyi Port,46.1222,32.2983,Ukraine,UA,Khersons’ka Oblast’,,1528,1528
+Menchykury,47.0711,34.8041,Ukraine,UA,Zaporiz’ka Oblast’,,1527,1527
+Kozhukhivka,50.2536,30.2333,Ukraine,UA,Kyyivs’ka Oblast’,,1522,1522
+Kosmach,48.7497,24.3686,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1517,1517
+Zelenohirske,47.8728,30.0978,Ukraine,UA,Odes’ka Oblast’,,1516,1516
+Lisnyky,50.3039,30.5158,Ukraine,UA,Kyyivs’ka Oblast’,,1513,1513
+Medynia,49.0917,24.5769,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1511,1511
+Turiia,48.8717,31.6519,Ukraine,UA,Kirovohrads’ka Oblast’,,1511,1511
+Tokari,50.4148,33.4274,Ukraine,UA,Poltavs’ka Oblast’,,1511,1511
+Potashnia,48.3131,29.6122,Ukraine,UA,Vinnyts’ka Oblast’,,1510,1510
+Havrylivka,47.2219,33.8769,Ukraine,UA,Khersons’ka Oblast’,,1509,1509
+Tatariv,48.3436,24.5778,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1508,1508
+Mala Uhol’ka,48.1769,23.6383,Ukraine,UA,Zakarpats’ka Oblast’,,1503,1503
+Borzhava,48.1564,22.7217,Ukraine,UA,Zakarpats’ka Oblast’,,1502,1502
+Lisovychi,49.5131,30.4664,Ukraine,UA,Kyyivs’ka Oblast’,,1501,1501
+Beleluia,48.4986,25.4775,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1500,1500
+Andriivka,44.8161,33.5635,Ukraine,UA,"Sevastopol’, Misto",,1498,1498
+Zarih,49.8085,32.6541,Ukraine,UA,Poltavs’ka Oblast’,,1498,1498
+Krupske,49.4619,24.0300,Ukraine,UA,L’vivs’ka Oblast’,,1494,1494
+Kryvorivnia,48.1750,24.8964,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1493,1493
+Borisov,50.1753,26.6481,Ukraine,UA,Khmel’nyts’ka Oblast’,,1491,1491
+Stryzhivka,49.9081,27.7419,Ukraine,UA,Zhytomyrs’ka Oblast’,,1490,1490
+Mezhyrich,50.3011,26.4750,Ukraine,UA,Rivnens’ka Oblast’,,1490,1490
+Antonivka,48.5286,28.4314,Ukraine,UA,Vinnyts’ka Oblast’,,1488,1488
+Trudove,45.6183,29.3967,Ukraine,UA,Odes’ka Oblast’,,1487,1487
+Vilkhovets,48.6986,27.3575,Ukraine,UA,Khmel’nyts’ka Oblast’,,1485,1485
+Kapytolivka,49.1936,37.3542,Ukraine,UA,Kharkivs’ka Oblast’,,1485,1485
+Kamianske,48.2797,22.9386,Ukraine,UA,Zakarpats’ka Oblast’,,1482,1482
+Holovkivka,49.1203,32.3383,Ukraine,UA,Cherkas’ka Oblast’,,1481,1481
+Luka,50.4602,33.2907,Ukraine,UA,Poltavs’ka Oblast’,,1480,1480
+Hlynsk,49.5753,28.4642,Ukraine,UA,Vinnyts’ka Oblast’,,1471,1471
+Novokrasnyanka,49.1433,38.2431,Ukraine,UA,Luhans’ka Oblast’,,1471,1471
+Makariv Yar,48.5744,39.7169,Ukraine,UA,Luhans’ka Oblast’,,1470,1470
+Suskovo,48.5422,22.9153,Ukraine,UA,Zakarpats’ka Oblast’,,1468,1468
+Kolychivka,51.4136,31.3042,Ukraine,UA,Chernihivs’ka Oblast’,,1468,1468
+Ivanopillia,48.4794,37.7589,Ukraine,UA,Donets’ka Oblast’,,1466,1466
+Sokolove,49.7167,36.1958,Ukraine,UA,Kharkivs’ka Oblast’,,1464,1464
+Rudnyky,51.0336,25.7619,Ukraine,UA,Volyns’ka Oblast’,,1461,1461
+Mykhailivka,48.8350,29.5447,Ukraine,UA,Vinnyts’ka Oblast’,,1460,1460
+Hranitne,50.7428,29.3522,Ukraine,UA,Zhytomyrs’ka Oblast’,,1459,1459
+Nehrovets,48.4617,23.6406,Ukraine,UA,Zakarpats’ka Oblast’,,1456,1456
+Oleksandrivka,47.7329,33.5318,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1455,1455
+Livyntsi,48.4081,26.6081,Ukraine,UA,Chernivets’ka Oblast’,,1452,1452
+Rachky,48.9933,28.9058,Ukraine,UA,Vinnyts’ka Oblast’,,1452,1452
+Buhas,47.6347,37.5614,Ukraine,UA,Donets’ka Oblast’,,1449,1449
+Pysarivka,49.1939,28.6011,Ukraine,UA,Vinnyts’ka Oblast’,,1448,1448
+Rivne,46.3661,34.7569,Ukraine,UA,Khersons’ka Oblast’,,1447,1447
+Horianivske,48.5792,34.8750,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1443,1443
+Moshanets,48.4733,26.6939,Ukraine,UA,Chernivets’ka Oblast’,,1442,1442
+Popivtsi,48.9033,27.8334,Ukraine,UA,Vinnyts’ka Oblast’,,1441,1441
+Olenivka,45.3833,32.5333,Ukraine,UA,"Krym, Avtonomna Respublika",,1441,1441
+Anysiv,51.4356,31.3611,Ukraine,UA,Chernihivs’ka Oblast’,,1441,1441
+Dyrdyn,49.2428,31.4467,Ukraine,UA,Cherkas’ka Oblast’,,1440,1440
+Rozsosha,49.3392,26.8803,Ukraine,UA,Khmel’nyts’ka Oblast’,,1438,1438
+Khrystoforivka,47.9822,33.0877,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1437,1437
+Studenytsia,50.3386,28.8972,Ukraine,UA,Zhytomyrs’ka Oblast’,,1437,1437
+Harasymiv,48.7522,25.2061,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1436,1436
+Skomoroshky,49.3292,29.4408,Ukraine,UA,Vinnyts’ka Oblast’,,1435,1435
+Stavky,48.3819,29.7803,Ukraine,UA,Vinnyts’ka Oblast’,,1434,1434
+Holubynka,44.5972,33.9153,Ukraine,UA,"Krym, Avtonomna Respublika",,1433,1433
+Olenivka,48.9372,34.9841,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1427,1427
+Ulashkivtsi,48.8994,25.8186,Ukraine,UA,Ternopil’s’ka Oblast’,,1423,1423
+Mykolaivka,47.5322,30.2489,Ukraine,UA,Odes’ka Oblast’,,1423,1423
+Ozeriany,50.4957,32.9039,Ukraine,UA,Chernihivs’ka Oblast’,,1422,1422
+Uspenivka,47.7815,36.3992,Ukraine,UA,Zaporiz’ka Oblast’,,1422,1422
+Bashmachka,48.1560,35.0109,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1421,1421
+Kodra,50.5942,29.5667,Ukraine,UA,Kyyivs’ka Oblast’,,1420,1420
+Iverske,48.6367,36.9608,Ukraine,UA,Donets’ka Oblast’,,1419,1419
+Ivanivka,48.0985,36.6427,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1417,1417
+Hrunyky,48.1456,23.6658,Ukraine,UA,Zakarpats’ka Oblast’,,1416,1416
+Hordiivka,48.5206,29.3175,Ukraine,UA,Vinnyts’ka Oblast’,,1416,1416
+Lisova Lysiivka,49.3647,28.6114,Ukraine,UA,Vinnyts’ka Oblast’,,1416,1416
+Strilkove,45.8964,34.8811,Ukraine,UA,Khersons’ka Oblast’,,1415,1415
+Denyshi,50.2153,28.4078,Ukraine,UA,Zhytomyrs’ka Oblast’,,1411,1411
+Bene,48.1664,22.7569,Ukraine,UA,Zakarpats’ka Oblast’,,1409,1409
+Chukaluvka,48.8681,24.6897,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1407,1407
+Prymorske,47.3208,37.9439,Ukraine,UA,Donets’ka Oblast’,,1407,1407
+Adamivka,48.3235,34.2162,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1406,1406
+Stratiivka,48.1450,29.4258,Ukraine,UA,Vinnyts’ka Oblast’,,1403,1403
+Borynia,49.0778,22.9953,Ukraine,UA,L’vivs’ka Oblast’,,1402,1402
+Myroliubivka,48.2586,28.8386,Ukraine,UA,Vinnyts’ka Oblast’,,1402,1402
+Perkivtsi,48.4489,26.6561,Ukraine,UA,Chernivets’ka Oblast’,,1399,1399
+Ternivka,48.5403,29.9678,Ukraine,UA,Vinnyts’ka Oblast’,,1395,1395
+Novyi Bilous,51.5356,31.1853,Ukraine,UA,Chernihivs’ka Oblast’,,1394,1394
+Velikiy Khodachkov,49.4869,25.4372,Ukraine,UA,Ternopil’s’ka Oblast’,,1392,1392
+Troyits’ke,48.4140,35.8668,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1392,1392
+Radovel,51.1489,27.8356,Ukraine,UA,Zhytomyrs’ka Oblast’,,1380,1380
+Rudkivka,50.7700,31.2964,Ukraine,UA,Chernihivs’ka Oblast’,,1380,1380
+Velbivka,50.3430,34.0463,Ukraine,UA,Poltavs’ka Oblast’,,1379,1379
+Medzhybizh,49.4360,27.3950,Ukraine,UA,Khmel’nyts’ka Oblast’,,1377,1377
+Stepove,48.6387,34.9063,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1375,1375
+Trebukhivtsi,49.4297,27.4106,Ukraine,UA,Khmel’nyts’ka Oblast’,,1375,1375
+Staryi Ostropil,49.8096,27.5593,Ukraine,UA,Khmel’nyts’ka Oblast’,,1374,1374
+Zarichne,48.7017,28.7939,Ukraine,UA,Vinnyts’ka Oblast’,,1372,1372
+Zaluzh’ye,49.9661,23.4292,Ukraine,UA,L’vivs’ka Oblast’,,1371,1371
+Hleiuvatka,48.0475,33.4220,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1371,1371
+Khodorkiv,50.0972,29.3081,Ukraine,UA,Zhytomyrs’ka Oblast’,,1371,1371
+Lozova,48.6728,28.0108,Ukraine,UA,Vinnyts’ka Oblast’,,1369,1369
+Pasytsely,47.8364,29.6500,Ukraine,UA,Odes’ka Oblast’,,1369,1369
+Dmukhailivka,49.0566,34.7604,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1367,1367
+Zabuzhzhia,50.4853,24.2628,Ukraine,UA,L’vivs’ka Oblast’,,1366,1366
+Voloske,48.3049,35.1394,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1362,1362
+Zhuravlivka,48.6394,28.7292,Ukraine,UA,Vinnyts’ka Oblast’,,1360,1360
+Hulsk,50.5192,27.7211,Ukraine,UA,Zhytomyrs’ka Oblast’,,1360,1360
+Ruska Mokra,48.3483,23.9008,Ukraine,UA,Zakarpats’ka Oblast’,,1358,1358
+Loshkarivka,47.9350,34.1539,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1358,1358
+Suvorove,46.0872,33.6911,Ukraine,UA,"Krym, Avtonomna Respublika",,1357,1357
+Melekyne,46.9561,37.3897,Ukraine,UA,Donets’ka Oblast’,,1356,1356
+Malyy Khodachkov,49.4869,25.8358,Ukraine,UA,Ternopil’s’ka Oblast’,,1352,1352
+Pryvitne,50.6372,24.7489,Ukraine,UA,Volyns’ka Oblast’,,1351,1351
+Chornoholova,48.8508,22.6069,Ukraine,UA,Zakarpats’ka Oblast’,,1348,1348
+Hupalivka,49.1034,34.7277,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1347,1347
+Holoskiv,49.3808,27.3431,Ukraine,UA,Khmel’nyts’ka Oblast’,,1346,1346
+Chortomlyk,47.6232,34.1420,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1345,1345
+Zahirne,49.2750,23.9761,Ukraine,UA,L’vivs’ka Oblast’,,1345,1345
+Popasne,48.8139,35.5320,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1345,1345
+Vremivka,47.8344,36.8133,Ukraine,UA,Donets’ka Oblast’,,1344,1344
+Solomonovo,48.4306,22.1639,Ukraine,UA,Zakarpats’ka Oblast’,,1342,1342
+Zhuravne,49.5081,28.1781,Ukraine,UA,Vinnyts’ka Oblast’,,1340,1340
+Vakulove,47.8984,33.9327,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1338,1338
+Kolodribka,48.6332,26.0215,Ukraine,UA,Ternopil’s’ka Oblast’,,1337,1337
+Kachanivka,49.6392,27.8969,Ukraine,UA,Vinnyts’ka Oblast’,,1337,1337
+Popelnaste,48.6611,33.7131,Ukraine,UA,Kirovohrads’ka Oblast’,,1334,1334
+Kvitky,49.3158,31.2458,Ukraine,UA,Cherkas’ka Oblast’,,1332,1332
+Polohy,49.9156,30.1147,Ukraine,UA,Kyyivs’ka Oblast’,,1331,1331
+Stepanivka,49.1306,28.7656,Ukraine,UA,Vinnyts’ka Oblast’,,1329,1329
+Hrushivtsi,48.5478,26.8214,Ukraine,UA,Chernivets’ka Oblast’,,1327,1327
+Kopachivka,50.8819,25.2267,Ukraine,UA,Volyns’ka Oblast’,,1327,1327
+Pivdenne,47.6674,34.3610,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1327,1327
+Vovchynets,48.4528,26.9128,Ukraine,UA,Chernivets’ka Oblast’,,1325,1325
+Pashkivtsi,49.7686,27.1319,Ukraine,UA,Khmel’nyts’ka Oblast’,,1323,1323
+Tarasivka,50.2464,34.3491,Ukraine,UA,Poltavs’ka Oblast’,,1321,1321
+Nova Dacha,48.5494,36.2110,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1319,1319
+Katerynivka,48.0141,36.1312,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1317,1317
+Novomykolaivka,48.3092,34.8618,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1314,1314
+Hirsivka,46.6403,35.3940,Ukraine,UA,Zaporiz’ka Oblast’,,1313,1313
+Hreblya,48.2831,23.0494,Ukraine,UA,Zakarpats’ka Oblast’,,1312,1312
+Stryzhivka,50.3019,28.9858,Ukraine,UA,Zhytomyrs’ka Oblast’,,1310,1310
+Ternuvate,47.8305,36.1276,Ukraine,UA,Zaporiz’ka Oblast’,,1306,1306
+Lavky,48.4800,22.6944,Ukraine,UA,Zakarpats’ka Oblast’,,1299,1299
+Velyka Linyna,49.3853,22.9067,Ukraine,UA,L’vivs’ka Oblast’,,1299,1299
+Nekhvoroshch,49.9633,28.9561,Ukraine,UA,Zhytomyrs’ka Oblast’,,1297,1297
+Baykovtsy,49.5603,25.6872,Ukraine,UA,Ternopil’s’ka Oblast’,,1296,1296
+Vynohrad,49.2364,30.5472,Ukraine,UA,Cherkas’ka Oblast’,,1294,1294
+Borshchivka,49.5082,36.9742,Ukraine,UA,Kharkivs’ka Oblast’,,1292,1292
+Senkevychivka,50.5333,25.0333,Ukraine,UA,Volyns’ka Oblast’,,1290,1290
+Budy,48.4669,29.2331,Ukraine,UA,Vinnyts’ka Oblast’,,1290,1290
+Berezhany,49.5442,28.5072,Ukraine,UA,Vinnyts’ka Oblast’,,1287,1287
+Richytsya,51.7589,24.6575,Ukraine,UA,Volyns’ka Oblast’,,1285,1285
+Palahychi,48.9028,24.9956,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1284,1284
+Stari Sanzhary,49.4284,34.4474,Ukraine,UA,Poltavs’ka Oblast’,,1283,1283
+Krasnoillia,48.1081,24.9050,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1282,1282
+Korchyn,49.0961,23.5364,Ukraine,UA,L’vivs’ka Oblast’,,1281,1281
+Kukavka,48.6036,27.7050,Ukraine,UA,Vinnyts’ka Oblast’,,1281,1281
+Trokhizbenka,48.7575,38.9633,Ukraine,UA,Luhans’ka Oblast’,,1280,1280
+Horodyshche,49.3669,28.1036,Ukraine,UA,Vinnyts’ka Oblast’,,1273,1273
+Mytchenky,51.2833,32.9500,Ukraine,UA,Chernihivs’ka Oblast’,,1272,1272
+Zhabotyn,49.1575,32.1506,Ukraine,UA,Cherkas’ka Oblast’,,1270,1270
+Mykhailivtsi,48.8756,27.5211,Ukraine,UA,Vinnyts’ka Oblast’,,1270,1270
+Bilenke,46.0519,30.3697,Ukraine,UA,Odes’ka Oblast’,,1268,1268
+Lupareve,46.6969,31.9794,Ukraine,UA,Mykolayivs’ka Oblast’,,1268,1268
+Mykolaivka,48.3567,34.6806,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1266,1266
+Zavadov,50.0606,23.3925,Ukraine,UA,L’vivs’ka Oblast’,,1261,1261
+Verkhivka,48.4419,29.1606,Ukraine,UA,Vinnyts’ka Oblast’,,1261,1261
+Nova Hreblia,49.4667,28.7644,Ukraine,UA,Vinnyts’ka Oblast’,,1258,1258
+Kopaihorod,48.8550,27.8019,Ukraine,UA,Vinnyts’ka Oblast’,,1258,1258
+Brody,51.7639,24.5275,Ukraine,UA,Volyns’ka Oblast’,,1255,1255
+Zelenkiv,48.7797,30.6497,Ukraine,UA,Cherkas’ka Oblast’,,1253,1253
+Barashivka,50.2714,28.5489,Ukraine,UA,Zhytomyrs’ka Oblast’,,1250,1250
+Babyn,49.1314,29.3228,Ukraine,UA,Vinnyts’ka Oblast’,,1247,1247
+Pidplesha,48.1314,23.8003,Ukraine,UA,Zakarpats’ka Oblast’,,1244,1244
+Mardarivka,47.5333,29.7333,Ukraine,UA,Odes’ka Oblast’,,1241,1241
+Sudiivka,49.5086,34.4305,Ukraine,UA,Poltavs’ka Oblast’,,1240,1240
+Kytaihorod,48.9667,29.4969,Ukraine,UA,Vinnyts’ka Oblast’,,1236,1236
+Khreshchatytske,47.2331,37.9269,Ukraine,UA,Donets’ka Oblast’,,1235,1235
+Biloberizka,48.1656,25.0469,Ukraine,UA,Chernivets’ka Oblast’,,1234,1234
+Hlyboke,45.7292,29.6094,Ukraine,UA,Odes’ka Oblast’,,1232,1232
+Vasyliv,48.6042,25.8417,Ukraine,UA,Chernivets’ka Oblast’,,1229,1229
+Mykolaivka,48.5437,34.7086,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1228,1228
+Vorotsev,49.8572,23.8178,Ukraine,UA,L’vivs’ka Oblast’,,1228,1228
+Dihtiari,50.5814,32.7699,Ukraine,UA,Chernihivs’ka Oblast’,,1227,1227
+Kaydanovo,48.4725,22.5758,Ukraine,UA,Zakarpats’ka Oblast’,,1224,1224
+Fedorivka,46.8006,32.8061,Ukraine,UA,Khersons’ka Oblast’,,1222,1222
+Myrne,50.5928,24.8939,Ukraine,UA,Volyns’ka Oblast’,,1222,1222
+Stara Sil,49.4894,22.9656,Ukraine,UA,L’vivs’ka Oblast’,,1221,1221
+Bukachivtsi,49.2583,24.4972,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1221,1221
+Synkiv,48.6172,25.9572,Ukraine,UA,Ternopil’s’ka Oblast’,,1221,1221
+Horyhliady,48.8756,25.1481,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1220,1220
+Sedlyshche,51.6753,25.3847,Ukraine,UA,Volyns’ka Oblast’,,1217,1217
+Verkhnii Luzhok,49.3617,23.0181,Ukraine,UA,L’vivs’ka Oblast’,,1216,1216
+Bozhkivs’ke,49.6698,34.7583,Ukraine,UA,Poltavs’ka Oblast’,,1214,1214
+Isaiky,49.4833,30.8150,Ukraine,UA,Kyyivs’ka Oblast’,,1211,1211
+Bezborodky,49.8994,31.9856,Ukraine,UA,Cherkas’ka Oblast’,,1211,1211
+Dnistrivka,48.5361,26.9258,Ukraine,UA,Chernivets’ka Oblast’,,1208,1208
+Ladychin,49.3778,25.5703,Ukraine,UA,Ternopil’s’ka Oblast’,,1208,1208
+Mykolayiv,50.3400,24.9692,Ukraine,UA,L’vivs’ka Oblast’,,1206,1206
+Vesela Dolyna,46.2333,29.3167,Ukraine,UA,Odes’ka Oblast’,,1206,1206
+Verkhnii Yaseniv,48.1614,24.9453,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1205,1205
+Voziluv,48.8552,25.3126,Ukraine,UA,Ternopil’s’ka Oblast’,,1204,1204
+Andriivka,46.2200,30.0825,Ukraine,UA,Odes’ka Oblast’,,1203,1203
+Gorishnyaya Vygnanka,49.0267,25.8067,Ukraine,UA,Ternopil’s’ka Oblast’,,1202,1202
+Pomynyk,48.9017,30.2872,Ukraine,UA,Cherkas’ka Oblast’,,1201,1201
+Zavadiv,49.2533,23.7650,Ukraine,UA,L’vivs’ka Oblast’,,1197,1197
+Vesela Hora,48.7117,39.2497,Ukraine,UA,Luhans’ka Oblast’,,1197,1197
+Tavriiske,46.5850,34.8484,Ukraine,UA,Zaporiz’ka Oblast’,,1195,1195
+Keleberda,49.7442,31.5611,Ukraine,UA,Cherkas’ka Oblast’,,1194,1194
+Pysmenne,48.2030,35.8057,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1193,1193
+Pasika,48.5292,22.9058,Ukraine,UA,Zakarpats’ka Oblast’,,1193,1193
+Serbynivtsi,49.0929,27.9279,Ukraine,UA,Vinnyts’ka Oblast’,,1193,1193
+Dmytrivka,46.6339,31.7350,Ukraine,UA,Mykolayivs’ka Oblast’,,1193,1193
+Mel’nyky,51.5497,23.9350,Ukraine,UA,Volyns’ka Oblast’,,1192,1192
+Shulhivka,48.7434,34.3924,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1191,1191
+Peredilske,48.7569,39.1489,Ukraine,UA,Luhans’ka Oblast’,,1191,1191
+Zhdanivka,48.9623,35.0637,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1191,1191
+Komariv,49.1417,28.6639,Ukraine,UA,Vinnyts’ka Oblast’,,1190,1190
+Roishche,51.6539,31.2636,Ukraine,UA,Chernihivs’ka Oblast’,,1190,1190
+Lepetykha,47.3283,33.0503,Ukraine,UA,Mykolayivs’ka Oblast’,,1190,1190
+Kam”yane,47.8742,35.3985,Ukraine,UA,Zaporiz’ka Oblast’,,1188,1188
+Birky,50.1251,34.1706,Ukraine,UA,Poltavs’ka Oblast’,,1188,1188
+Zamahora,48.1022,24.8217,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1185,1185
+Podishor,48.0422,23.8658,Ukraine,UA,Zakarpats’ka Oblast’,,1183,1183
+Luchyste,44.7436,34.3711,Ukraine,UA,"Krym, Avtonomna Respublika",,1180,1180
+Huliaipole,48.1211,34.1495,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1177,1177
+Sabatynivka,48.1783,30.1844,Ukraine,UA,Kirovohrads’ka Oblast’,,1176,1176
+Yevhenivka,47.0886,32.9003,Ukraine,UA,Mykolayivs’ka Oblast’,,1176,1176
+Novyi Kropyvnyk,49.2167,23.3103,Ukraine,UA,L’vivs’ka Oblast’,,1175,1175
+Slobozhanske,50.1928,36.4136,Ukraine,UA,Kharkivs’ka Oblast’,,1173,1173
+Seliatyn,47.8736,25.1861,Ukraine,UA,Chernivets’ka Oblast’,,1173,1173
+Kruhlyakivka,49.5278,37.7125,Ukraine,UA,Kharkivs’ka Oblast’,,1173,1173
+Blystavytsya,50.6006,30.1822,Ukraine,UA,Kyyivs’ka Oblast’,,1172,1172
+Hlushkiv,48.6436,25.4767,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1171,1171
+Holovetsko,49.3083,22.8906,Ukraine,UA,L’vivs’ka Oblast’,,1170,1170
+Lytvynivka,49.3111,39.4414,Ukraine,UA,Luhans’ka Oblast’,,1168,1168
+Slobodka-Mushkatovka,48.8114,26.1010,Ukraine,UA,Ternopil’s’ka Oblast’,,1166,1166
+Oleksiivka,48.0186,36.9497,Ukraine,UA,Donets’ka Oblast’,,1163,1163
+Pishcha,51.6050,23.8100,Ukraine,UA,Volyns’ka Oblast’,,1162,1162
+Stara Huta,51.4119,24.2436,Ukraine,UA,Volyns’ka Oblast’,,1161,1161
+Zvenyhorod,49.7328,24.2469,Ukraine,UA,L’vivs’ka Oblast’,,1156,1156
+Nedaivoda,48.1400,33.3758,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1156,1156
+Kernitsa,49.7811,23.7556,Ukraine,UA,L’vivs’ka Oblast’,,1155,1155
+Bodakva,50.2996,33.4281,Ukraine,UA,Poltavs’ka Oblast’,,1152,1152
+Nadezhdivka,46.7067,32.3617,Ukraine,UA,Khersons’ka Oblast’,,1151,1151
+Duba,48.8481,24.1533,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1150,1150
+Krasnostavtsy,48.7972,26.3981,Ukraine,UA,Khmel’nyts’ka Oblast’,,1149,1149
+Bodaki,49.8933,25.8071,Ukraine,UA,Ternopil’s’ka Oblast’,,1148,1148
+Zasluchne,49.6581,26.7747,Ukraine,UA,Khmel’nyts’ka Oblast’,,1148,1148
+Verbka,48.2883,28.5689,Ukraine,UA,Vinnyts’ka Oblast’,,1148,1148
+Khoroshe,48.5549,36.4766,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1145,1145
+Rosishka,47.9850,24.0697,Ukraine,UA,Zakarpats’ka Oblast’,,1144,1144
+Novohupalivka,48.0238,35.4233,Ukraine,UA,Zaporiz’ka Oblast’,,1144,1144
+Lozuvatka,48.4665,33.8825,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1142,1142
+Kalynivske,47.1150,32.9747,Ukraine,UA,Khersons’ka Oblast’,,1142,1142
+Kryklyvets,48.3217,28.9786,Ukraine,UA,Vinnyts’ka Oblast’,,1139,1139
+Mikhailivka,48.2733,28.0944,Ukraine,UA,Vinnyts’ka Oblast’,,1138,1138
+Uniatychi,49.3736,23.4158,Ukraine,UA,L’vivs’ka Oblast’,,1138,1138
+Kutyshche,48.9078,25.1192,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1137,1137
+Velykyi Trostianets,49.4975,34.5390,Ukraine,UA,Poltavs’ka Oblast’,,1137,1137
+Korniyivka,50.4183,31.4533,Ukraine,UA,Kyyivs’ka Oblast’,,1137,1137
+Arkhanhelska Sloboda,46.6350,33.7047,Ukraine,UA,Khersons’ka Oblast’,,1136,1136
+Rudnytsia,48.2667,28.9333,Ukraine,UA,Vinnyts’ka Oblast’,,1132,1132
+Zdvyzhivka,50.6722,30.0692,Ukraine,UA,Kyyivs’ka Oblast’,,1132,1132
+Pryvilne,48.2099,34.7188,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1131,1131
+Dobra,48.9631,30.1325,Ukraine,UA,Cherkas’ka Oblast’,,1130,1130
+Napadovka,49.8852,26.0357,Ukraine,UA,Ternopil’s’ka Oblast’,,1128,1128
+Novooleksandrivka,49.1336,39.2789,Ukraine,UA,Luhans’ka Oblast’,,1128,1128
+Peremoha,51.5482,33.9418,Ukraine,UA,Sums’ka Oblast’,,1128,1128
+Vilshany,48.3500,23.6197,Ukraine,UA,Zakarpats’ka Oblast’,,1125,1125
+Bernove,48.4981,26.6336,Ukraine,UA,Khmel’nyts’ka Oblast’,,1125,1125
+Rozvazh,50.3669,26.5150,Ukraine,UA,Rivnens’ka Oblast’,,1123,1123
+Podove,46.5561,34.1403,Ukraine,UA,Khersons’ka Oblast’,,1123,1123
+Stavnytsia,49.4478,27.4264,Ukraine,UA,Khmel’nyts’ka Oblast’,,1121,1121
+Yablunets,50.8000,28.0667,Ukraine,UA,Zhytomyrs’ka Oblast’,,1121,1121
+Nyzhniy Dubovets’,48.1592,23.9089,Ukraine,UA,Zakarpats’ka Oblast’,,1121,1121
+Rashkiv,48.5111,26.2689,Ukraine,UA,Chernivets’ka Oblast’,,1120,1120
+Bobrivnyk,50.2347,34.3054,Ukraine,UA,Poltavs’ka Oblast’,,1120,1120
+Rusov,48.5153,25.5250,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1119,1119
+Sarazhynka,48.0878,29.4475,Ukraine,UA,Odes’ka Oblast’,,1119,1119
+Maidan,49.0075,24.5611,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1117,1117
+Nehrovo,48.3719,22.9094,Ukraine,UA,Zakarpats’ka Oblast’,,1116,1116
+Sedniv,51.6433,31.5689,Ukraine,UA,Chernihivs’ka Oblast’,,1116,1116
+Novopoltavka,47.5483,32.5011,Ukraine,UA,Mykolayivs’ka Oblast’,,1115,1115
+Poltavka,47.7192,36.4821,Ukraine,UA,Zaporiz’ka Oblast’,,1113,1113
+Solochyn,48.6003,22.9564,Ukraine,UA,Zakarpats’ka Oblast’,,1111,1111
+Sosnivka,50.2916,34.0175,Ukraine,UA,Poltavs’ka Oblast’,,1110,1110
+Nahirne,49.4817,23.2206,Ukraine,UA,L’vivs’ka Oblast’,,1108,1108
+Kaznacheyivka,48.7958,35.0811,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1107,1107
+Dobrik,48.0122,23.9033,Ukraine,UA,Zakarpats’ka Oblast’,,1106,1106
+Potik,49.7622,31.0542,Ukraine,UA,Kyyivs’ka Oblast’,,1106,1106
+Andrushivka,49.3600,29.2025,Ukraine,UA,Vinnyts’ka Oblast’,,1104,1104
+Zhdeniievo,48.7667,22.9833,Ukraine,UA,Zakarpats’ka Oblast’,,1102,1102
+Pnikut,49.7110,23.1383,Ukraine,UA,L’vivs’ka Oblast’,,1101,1101
+Saivka,48.3457,33.8810,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1101,1101
+Novyy Svit,44.8292,34.9128,Ukraine,UA,"Krym, Avtonomna Respublika",,1100,1100
+Chkalove,47.0722,34.7122,Ukraine,UA,Zaporiz’ka Oblast’,,1100,1100
+Ustia,48.6134,26.0868,Ukraine,UA,Ternopil’s’ka Oblast’,,1099,1099
+Zaliznychne,47.6504,36.1662,Ukraine,UA,Zaporiz’ka Oblast’,,1099,1099
+Mykhailivka,49.9242,32.1781,Ukraine,UA,Cherkas’ka Oblast’,,1096,1096
+Zaytseve,48.4312,35.6711,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1095,1095
+Oleyëvo-Korolëvka,48.7421,25.9935,Ukraine,UA,Ternopil’s’ka Oblast’,,1094,1094
+Naraivka,48.9019,29.6842,Ukraine,UA,Vinnyts’ka Oblast’,,1094,1094
+Samarske,48.4799,36.4621,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1094,1094
+Krasnostavtsi,48.5328,25.4831,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1093,1093
+Lisohirka,49.3742,27.4206,Ukraine,UA,Khmel’nyts’ka Oblast’,,1087,1087
+Horodok,51.3700,25.4792,Ukraine,UA,Volyns’ka Oblast’,,1086,1086
+Krasnyk,48.1444,24.7364,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1086,1086
+Samary-Orikhovi,51.8517,24.6633,Ukraine,UA,Volyns’ka Oblast’,,1082,1082
+Staryy Skalat,49.4639,25.9822,Ukraine,UA,Ternopil’s’ka Oblast’,,1081,1081
+Vesele,48.2317,36.6133,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1081,1081
+Reia,50.0219,28.6219,Ukraine,UA,Zhytomyrs’ka Oblast’,,1080,1080
+Abrykosivka,45.1097,35.0986,Ukraine,UA,"Krym, Avtonomna Respublika",,1079,1079
+Pohreby,50.0950,32.1889,Ukraine,UA,Cherkas’ka Oblast’,,1079,1079
+Chernechchyna,49.1192,34.7703,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1077,1077
+Buzynove,46.9742,30.4869,Ukraine,UA,Odes’ka Oblast’,,1077,1077
+Krasnokamianka,44.5625,34.2931,Ukraine,UA,"Krym, Avtonomna Respublika",,1074,1074
+Livadiia,44.4708,34.1439,Ukraine,UA,"Krym, Avtonomna Respublika",,1074,1074
+Chornyy Potik,48.1808,22.9067,Ukraine,UA,Zakarpats’ka Oblast’,,1074,1074
+Bohynivka,48.4890,36.3527,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1073,1073
+Fertesholmash,47.9808,22.9269,Ukraine,UA,Zakarpats’ka Oblast’,,1070,1070
+Lemeshivka,50.3125,32.0767,Ukraine,UA,Kyyivs’ka Oblast’,,1070,1070
+Novoderkul,49.1294,39.6203,Ukraine,UA,Luhans’ka Oblast’,,1070,1070
+Stara Kulna,47.6961,29.3150,Ukraine,UA,Odes’ka Oblast’,,1067,1067
+Preobrazhenka,48.9716,34.6129,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1066,1066
+Bairachky,48.3883,38.5992,Ukraine,UA,Luhans’ka Oblast’,,1065,1065
+Puhachivka,50.5669,25.6192,Ukraine,UA,Rivnens’ka Oblast’,,1065,1065
+Zhukotyn,48.6778,25.0642,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1064,1064
+Skelivka,49.5353,22.9625,Ukraine,UA,L’vivs’ka Oblast’,,1062,1062
+Kariv,50.3469,23.7989,Ukraine,UA,L’vivs’ka Oblast’,,1057,1057
+Malyi Kobeliachok,49.3429,34.2180,Ukraine,UA,Poltavs’ka Oblast’,,1057,1057
+Bilkivtsi,50.3675,28.9772,Ukraine,UA,Zhytomyrs’ka Oblast’,,1056,1056
+Borokhiv,50.7811,25.4611,Ukraine,UA,Volyns’ka Oblast’,,1054,1054
+Ivanivka,47.5778,37.3175,Ukraine,UA,Donets’ka Oblast’,,1052,1052
+Kashperivka,50.2714,27.5281,Ukraine,UA,Zhytomyrs’ka Oblast’,,1052,1052
+Vistria,48.9247,25.1311,Ukraine,UA,Ternopil’s’ka Oblast’,,1050,1050
+Melnyky,49.1433,32.2969,Ukraine,UA,Cherkas’ka Oblast’,,1050,1050
+Oleksandrivka,46.5371,35.4897,Ukraine,UA,Zaporiz’ka Oblast’,,1049,1049
+Verkhivtsi,49.6353,23.1006,Ukraine,UA,L’vivs’ka Oblast’,,1047,1047
+Zaperedillia,48.4747,23.5042,Ukraine,UA,Zakarpats’ka Oblast’,,1043,1043
+Basyuvka,49.7811,23.9092,Ukraine,UA,L’vivs’ka Oblast’,,1042,1042
+Viktoriya,50.2406,32.2880,Ukraine,UA,Poltavs’ka Oblast’,,1042,1042
+Peremyl,50.3961,25.1642,Ukraine,UA,Volyns’ka Oblast’,,1041,1041
+Volitsa,49.8100,23.0878,Ukraine,UA,L’vivs’ka Oblast’,,1040,1040
+Hyryavi Iskivtsi,50.4247,33.3134,Ukraine,UA,Poltavs’ka Oblast’,,1040,1040
+Bendzary,47.9308,29.6642,Ukraine,UA,Odes’ka Oblast’,,1040,1040
+Bochanytsya,50.5286,26.6953,Ukraine,UA,Rivnens’ka Oblast’,,1038,1038
+Stina,48.4525,28.4211,Ukraine,UA,Vinnyts’ka Oblast’,,1033,1033
+Vytylivka,48.4072,25.8011,Ukraine,UA,Chernivets’ka Oblast’,,1032,1032
+Somaky,49.1147,28.1058,Ukraine,UA,Vinnyts’ka Oblast’,,1029,1029
+Zhuky,49.6749,34.5007,Ukraine,UA,Poltavs’ka Oblast’,,1027,1027
+Kosyno,48.5125,22.7994,Ukraine,UA,Zakarpats’ka Oblast’,,1026,1026
+Fastovets,50.0572,30.0442,Ukraine,UA,Kyyivs’ka Oblast’,,1024,1024
+Bohdanivka,48.6414,29.1081,Ukraine,UA,Vinnyts’ka Oblast’,,1023,1023
+Shandra,49.7864,31.1519,Ukraine,UA,Kyyivs’ka Oblast’,,1023,1023
+Savyntsi,48.4775,29.0544,Ukraine,UA,Vinnyts’ka Oblast’,,1022,1022
+Pidlisne,48.7842,32.2531,Ukraine,UA,Kirovohrads’ka Oblast’,,1022,1022
+Demuryne,48.1781,36.4830,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1021,1021
+Zoryane,48.4985,36.8260,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1021,1021
+Pridberezzia,50.5417,24.6186,Ukraine,UA,Volyns’ka Oblast’,,1020,1020
+Sadove,46.0233,29.2742,Ukraine,UA,Odes’ka Oblast’,,1020,1020
+Marianivka,48.3118,33.5294,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1016,1016
+Mariiampil,49.0383,24.8525,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1015,1015
+Verkhnia Stynava,49.1603,23.6136,Ukraine,UA,L’vivs’ka Oblast’,,1012,1012
+Ivanivske,49.4489,35.5536,Ukraine,UA,Kharkivs’ka Oblast’,,1012,1012
+Luhy,48.2217,29.1411,Ukraine,UA,Vinnyts’ka Oblast’,,1012,1012
+Veselivka,48.6239,29.8625,Ukraine,UA,Vinnyts’ka Oblast’,,1011,1011
+Volytsia,50.3914,24.3475,Ukraine,UA,L’vivs’ka Oblast’,,1009,1009
+Mytlashivka,49.9764,32.3122,Ukraine,UA,Cherkas’ka Oblast’,,1009,1009
+Novi Kryvotuly,48.7936,24.9039,Ukraine,UA,Ivano-Frankivs’ka Oblast’,,1008,1008
+Lany,49.6206,23.8672,Ukraine,UA,L’vivs’ka Oblast’,,1008,1008
+Kochubeyev,48.8242,26.3919,Ukraine,UA,Khmel’nyts’ka Oblast’,,1008,1008
+Honcharivka,49.8744,24.7858,Ukraine,UA,L’vivs’ka Oblast’,,1006,1006
+Kozyriany,48.3711,26.6461,Ukraine,UA,Chernivets’ka Oblast’,,1005,1005
+Novosamarka,47.5081,29.5244,Ukraine,UA,Odes’ka Oblast’,,1005,1005
+Hrechane,48.7383,34.5094,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1004,1004
+Novopidhorodne,48.2482,36.9008,Ukraine,UA,Dnipropetrovs’ka Oblast’,,1002,1002
+Chervonohrad,50.3842,24.2265,Ukraine,UA,L’vivs’ka Oblast’,minor,,
+Pervomaisk,48.0500,30.8500,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Mykolaiv,49.5266,23.9814,Ukraine,UA,L’vivs’ka Oblast’,minor,,
+Pustomyty,49.7139,23.9108,Ukraine,UA,L’vivs’ka Oblast’,minor,,
+Kitsman,48.4425,25.7614,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Hlyboka,48.0833,25.9333,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Sokyriany,48.4500,27.4167,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Zastavna,48.5167,25.8500,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Storozhynets,48.1597,25.7150,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Zalishchyky,48.6392,25.7374,Ukraine,UA,Ternopil’s’ka Oblast’,minor,,
+Biliaivka,46.4828,30.2014,Ukraine,UA,Odes’ka Oblast’,minor,,
+Reni,45.4500,28.2833,Ukraine,UA,Odes’ka Oblast’,minor,,
+Berezhany,49.4464,24.9436,Ukraine,UA,Ternopil’s’ka Oblast’,minor,,
+Kelmentsi,48.4615,26.8360,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Monastyryska,49.0889,25.1694,Ukraine,UA,Ternopil’s’ka Oblast’,minor,,
+Haivoron,48.3333,29.8500,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Volnovakha,47.5978,37.4836,Ukraine,UA,Donets’ka Oblast’,minor,,
+Sarny,51.3269,26.6331,Ukraine,UA,Rivnens’ka Oblast’,minor,,
+Yampil,48.2414,28.2819,Ukraine,UA,Vinnyts’ka Oblast’,minor,,
+Kurman,45.5010,34.3011,Ukraine,UA,"Krym, Avtonomna Respublika",minor,,
+Krasnohrad,49.3719,35.4569,Ukraine,UA,Kharkivs’ka Oblast’,minor,,
+Novovorontsovka,47.4962,33.9230,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Oleshky,46.6167,32.7167,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Zboriv,49.6616,25.1469,Ukraine,UA,Ternopil’s’ka Oblast’,minor,,
+Bohuslav,49.5464,30.8741,Ukraine,UA,Kyyivs’ka Oblast’,minor,,
+Kiliia,45.4503,29.2667,Ukraine,UA,Odes’ka Oblast’,minor,,
+Peremyshliany,49.6700,24.5594,Ukraine,UA,L’vivs’ka Oblast’,minor,,
+Turka,49.1544,23.0300,Ukraine,UA,L’vivs’ka Oblast’,minor,,
+Rozdilna,46.8473,30.0773,Ukraine,UA,Odes’ka Oblast’,minor,,
+Pidhaitsi,49.2667,25.1333,Ukraine,UA,Ternopil’s’ka Oblast’,minor,,
+Ichki,45.3413,34.9292,Ukraine,UA,"Krym, Avtonomna Respublika",minor,,
+Novoazovsk,47.1167,38.0833,Ukraine,UA,Donets’ka Oblast’,minor,,
+Kodyma,48.1000,29.1167,Ukraine,UA,Odes’ka Oblast’,minor,,
+Sarata,46.0232,29.6631,Ukraine,UA,Odes’ka Oblast’,minor,,
+Khorol,49.7840,33.2589,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Skole,49.0378,23.5139,Ukraine,UA,L’vivs’ka Oblast’,minor,,
+Popilnia,49.9664,29.4433,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,,
+Artsyz,45.9833,29.4167,Ukraine,UA,Odes’ka Oblast’,minor,,
+Tatarbunary,45.8355,29.6147,Ukraine,UA,Odes’ka Oblast’,minor,,
+Savran,48.1300,30.0794,Ukraine,UA,Odes’ka Oblast’,minor,,
+Holovanivsk,48.3800,30.4472,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Putyla,47.9919,25.0908,Ukraine,UA,Chernivets’ka Oblast’,minor,,
+Snihurivka,47.0708,32.7997,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Liubashivka,47.8333,30.2500,Ukraine,UA,Odes’ka Oblast’,minor,,
+Rozdolne,45.7702,33.4909,Ukraine,UA,"Krym, Avtonomna Respublika",minor,,
+Ruzhyn,49.7217,29.2187,Ukraine,UA,Zhytomyrs’ka Oblast’,minor,,
+Novomyrhorod,48.7833,31.6500,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Reshetylivka,49.5636,34.0763,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Hlobyne,49.3886,33.2632,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Novoukrainka,48.3156,31.5269,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Pervomaiske,45.7169,33.8608,Ukraine,UA,"Krym, Avtonomna Respublika",minor,,
+Novyi Buh,47.6833,32.5000,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Varash,51.3400,25.8508,Ukraine,UA,Rivnens’ka Oblast’,minor,,
+Orzhytsia,49.7910,32.7015,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Nikolske,47.2019,37.3128,Ukraine,UA,Donets’ka Oblast’,minor,,
+Nova Odesa,47.3167,31.7833,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Velyka Bahachka,49.7944,33.7207,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Oleksandrivka,48.9667,32.2333,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Yedy-Kuiu,45.2977,35.7748,Ukraine,UA,"Krym, Avtonomna Respublika",minor,,
+Chornomorske,45.5039,32.7062,Ukraine,UA,"Krym, Avtonomna Respublika",minor,,
+Ivanivka,46.9756,30.4697,Ukraine,UA,Odes’ka Oblast’,minor,,
+Chaplynka,46.3629,33.5302,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Bashtanka,47.4000,32.4500,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Mashivka,49.4449,34.8758,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Vysokopillia,47.4797,33.5300,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Vradiivka,47.8617,30.5931,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Velyka Mykhailivka,47.0783,29.8533,Ukraine,UA,Odes’ka Oblast’,minor,,
+Arbuzynka,47.9067,31.3131,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Kozelshchyna,49.2155,33.8518,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Petrove,48.3312,33.2682,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Semenivka,49.6017,33.1875,Ukraine,UA,Poltavs’ka Oblast’,minor,,
+Novotroitske,46.3559,34.3335,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Novoarkhanhelsk,48.6589,30.8186,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Oleksandriia,48.6667,33.1167,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Vilshanka,48.2322,30.8779,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Domanivka,47.6292,30.9896,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Velyka Oleksandrivka,47.3108,33.2942,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Velyka Lepetykha,47.1639,33.9381,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Bereznehuvate,47.3114,32.8478,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Velyka Bilozerka,47.2720,34.6947,Ukraine,UA,Zaporiz’ka Oblast’,minor,,
+Novoaidar,48.9592,39.0194,Ukraine,UA,Luhans’ka Oblast’,minor,,
+Novhorodka,48.3565,32.6466,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Verkhnii Rohachyk,47.2414,34.3600,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Kompaniivka,48.2500,32.2000,Ukraine,UA,Kirovohrads’ka Oblast’,minor,,
+Yelanets,47.6978,31.8544,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Kazanka,47.8381,32.8261,Ukraine,UA,Mykolayivs’ka Oblast’,minor,,
+Mykolaivka,47.5389,30.7528,Ukraine,UA,Odes’ka Oblast’,minor,,
+Milove,49.3778,40.1306,Ukraine,UA,Luhans’ka Oblast’,minor,,
+Nyzhni Sirohozy,46.8395,34.3760,Ukraine,UA,Khersons’ka Oblast’,minor,,
+Ivanivka,46.7100,34.5500,Ukraine,UA,Khersons’ka Oblast’,minor,,
