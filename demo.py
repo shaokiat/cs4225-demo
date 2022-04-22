@@ -15,6 +15,9 @@ data_copy = data.copy()
 coordinatesDF = pd.read_csv("ua_coordinates.csv")
 coordinatesDF.rename(columns={"lng": "lon"}, inplace=True)
 
+# header
+st.title('Russo-Ukraine Conflict Analysis')
+
 # Configure Sidebar
 st.sidebar.title("Data Selection")
 
@@ -23,7 +26,7 @@ st.sidebar.markdown(
 selected_date = st.sidebar.date_input(
     "Select Date", datetime(2022, 3, 10)).strftime("%Y-%m-%d")
 selected_hr = st.sidebar.slider(
-    "Select hr", min_value=0, max_value=23, value=0, step=1)
+    "Select hour", min_value=0, max_value=23, value=0, step=1)
 
 if selected_date and selected_hr:
     hour = str(selected_hr*100).zfill(4)
@@ -31,14 +34,15 @@ if selected_date and selected_hr:
     st.sidebar.write("You have selected: ", time)
 
 
-st.title('Russo-Ukraine Conflict Analysis')
 st.markdown(
     "Visualize conflict areas in Ukraine based on twitter activity by date and hour.")
 # Display Map
+st.header("Map of top 5 cities")
+st.write("Cities ranked by their respective percentage change of tweets per hour")
 selectedDateHr = (data["Date"] == selected_date) & (
     data["Hour"] == selected_hr)
 
-data = data[selectedDateHr].merge(coordinatesDF, left_on="EnglishTransCityName", right_on="city").sort_values(
+data = data[selectedDateHr].merge(coordinatesDF, left_on="EnglishTransCityName", right_on="EnglishTransCityName").sort_values(
     by='PctChange', ascending=False).iloc[0:5, :]
 maxCount = data["PctChange"].max()
 for row in data.itertuples():
@@ -49,13 +53,14 @@ for row in data.itertuples():
         columns=['lat', 'lon'])
 
     data = data.append(df)
-
+if data.empty:
+  st.warning("No data available for chosen Date and Hour. Please select another.")
 st.map(data=data, zoom=5)
 
-st.header("Top 5 Affected Cities in Ukraine")
-st.write("Bar Chart with top 5 cities and their respective Percentage Change.")
-
 # Display bar graph Histogram chart
+st.header("Bar Chart of top 5 cities")
+st.write("Cities ranked by their respective percentage change of tweets per hour")
+
 data_bar = data_copy.copy()
 data_bar = data_bar[(data_bar["Date"] == selected_date)
                     & (data_bar["Hour"] == selected_hr)]
