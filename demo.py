@@ -6,6 +6,7 @@ from st_aggrid.shared import GridUpdateMode
 from datetime import date
 from datetime import datetime
 import altair as alt
+import streamlit.components.v1 as components
 
 
 # Import data
@@ -24,7 +25,7 @@ st.sidebar.title("Data Selection")
 st.sidebar.markdown(
     "Select the `Date` and `Hour` of interest to generate data visualization.")
 selected_date = st.sidebar.date_input(
-    "Select Date", datetime(2022, 3, 10)).strftime("%Y-%m-%d")
+    "Select Date", datetime(2022, 3, 25)).strftime("%Y-%m-%d")
 selected_hr = st.sidebar.slider(
     "Select hour", min_value=0, max_value=23, value=0, step=1)
 
@@ -54,7 +55,8 @@ for row in data.itertuples():
 
     data = data.append(df)
 if data.empty:
-  st.warning("No data available for chosen Date and Hour. Please select another.")
+    st.warning(
+        "No data available for chosen Date and Hour. Please select another.")
 st.map(data=data, zoom=5)
 
 # Display bar graph Histogram chart
@@ -76,6 +78,21 @@ else:
         x=alt.X('EnglishTransCityName', sort='-y'), y='PctChange')
 
     st.altair_chart(c, use_container_width=True)
+
+# Seperator
+st.write("#")
+st.markdown("""---""")
+# Embed news article inside of Streamlit
+st.subheader("News feed pulled from Ukraine's Ministry of Foreign Affairs")
+st.subheader("https://war.ukraine.ua/news/")
+split_date = selected_date.split('-')
+processed_date = split_date[2] + '-' + split_date[1] + '-' + split_date[0]
+components.iframe("https://war.ukraine.ua/news/" +
+                  processed_date, height=800, scrolling=True)
+
+# Seperator
+st.write("#")
+
 
 # Displays the AG Grid
 row0_spacer1, row0_1, row0_spacer2 = st.columns(
